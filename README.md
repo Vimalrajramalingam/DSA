@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 
 </details>
 
