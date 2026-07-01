@@ -12,6 +12,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
+### Array
+<details>
+<summary>Click to expand Array problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+
+</details>
+
+
 ### Database
 <details>
 <summary>Click to expand Database problems</summary>
