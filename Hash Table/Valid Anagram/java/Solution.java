@@ -6,16 +6,13 @@ class Solution {
         }
         int sum=0;
         for(char a2:t.toCharArray()){
-            if(freq[a2-'a']!=0)freq[a2-'a']--;
+            freq[a2-'a']--;
         }
         for(int i:freq)
         {   
-            sum+=i;
+            if(i==-1) return false;
         }
-        System.out.print(sum);
-        if(sum==0){
-            return true;
-        }
-        return false;
+        
+        return true;
     }
 }
