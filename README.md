@@ -32,6 +32,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](./Database/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/) | Easy |
 
 </details>
