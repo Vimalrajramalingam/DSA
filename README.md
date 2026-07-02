@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
+| 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 
 </details>
