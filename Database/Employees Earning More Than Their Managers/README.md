@@ -5,9 +5,8 @@
 
 ## Problem Statement
 
-<p>Table: <code>Employee</code></p>
+Table: Employee
 
-<pre>
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
@@ -18,21 +17,20 @@
 +-------------+---------+
 id is the primary key (column with unique values) for this table.
 Each row of this table indicates the ID of an employee, their name, salary, and the ID of their manager.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Write a solution&nbsp;to find the employees who earn more than their managers.</p>
+ 
 
-<p>Return the result table in <strong>any order</strong>.</p>
+Write a solution to find the employees who earn more than their managers.
 
-<p>The result format is in the following example.</p>
+Return the result table in any order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The result format is in the following example.
 
-<pre>
-<strong>Input:</strong> 
+ 
+Example 1:
+
+Input: 
 Employee table:
 +----+-------+--------+-----------+
 | id | name  | salary | managerId |
@@ -42,15 +40,35 @@ Employee table:
 | 3  | Sam   | 60000  | Null      |
 | 4  | Max   | 90000  | Null      |
 +----+-------+--------+-----------+
-<strong>Output:</strong> 
+Output: 
 +----------+
 | Employee |
 +----------+
 | Joe      |
 +----------+
-<strong>Explanation:</strong> Joe is the only employee who earns more than his manager.
-</pre>
+Explanation: Joe is the only employee who earns more than his manager.
 
+## Examples
+
+```
+Input: 
+Employee table:
++----+-------+--------+-----------+
+| id | name  | salary | managerId |
++----+-------+--------+-----------+
+| 1  | Joe   | 70000  | 3         |
+| 2  | Henry | 80000  | 4         |
+| 3  | Sam   | 60000  | Null      |
+| 4  | Max   | 90000  | Null      |
++----+-------+--------+-----------+
+Output: 
++----------+
+| Employee |
++----------+
+| Joe      |
++----------+
+Explanation: Joe is the only employee who earns more than his manager.
+```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
