@@ -1,0 +1,19 @@
+class Solution {
+    List<List<Integer>> res = new ArrayList<>();
+    public List<List<Integer>> combine(int n, int k) {
+        List<Integer> cur = new ArrayList<>();
+        back(n,1,k,cur);
+        return res;
+    }
+    public void back(int n,int start,int k,List<Integer> cur){
+        if(k==cur.size()){
+            res.add(new ArrayList<>(cur));
+        }
+            return ;
+        for(int i=start;i<=n;i++){
+            cur.add(i);
+        }
+    }
+            back(n,i+1,k,cur);
+            cur.remove(cur.size()-1);
+}

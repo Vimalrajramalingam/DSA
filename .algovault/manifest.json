@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T10:45:08.541Z",
+  "lastUpdated": "2026-08-04T10:46:17.036Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2975,6 +2975,12 @@
               "syncedAt": 1785840308540,
               "runtime": "19 ms",
               "memory": "97.6 MB",
+              "githubPath": "LeetCode/Backtracking/Combinations/"
+            },
+            "12345678910121113141718151619class solution {    list<list<integer>> res = new arraylist<>();    public list<list<integer>> combine(int n, int k) {        list<integer> cur = new arraylist<>();        back(n,1,k,cur);        return res;    }    public void back(int n,int start,int k,list<integer> cur){        if(k==cur.size()){            res.add(new arraylist<>(cur));        }            return ;        for(int i=start;i<=n;i++){            cur.add(i);        }    }            back(n,i+1,k,cur);            cur.remove(cur.size()-1);}": {
+              "syncedAt": 1785840377036,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Backtracking/Combinations/"
             }
           }
