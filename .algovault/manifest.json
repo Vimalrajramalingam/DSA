@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T10:03:51.560Z",
+  "lastUpdated": "2026-08-04T10:45:08.541Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2972,9 +2972,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835416054,
-              "runtime": "18 ms",
-              "memory": "94.8 MB",
+              "syncedAt": 1785840308540,
+              "runtime": "19 ms",
+              "memory": "97.6 MB",
               "githubPath": "LeetCode/Backtracking/Combinations/"
             }
           }
