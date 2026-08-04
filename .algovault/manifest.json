@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T10:01:24.429Z",
+  "lastUpdated": "2026-08-04T10:03:51.560Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3797,6 +3797,12 @@
               "syncedAt": 1785837684428,
               "runtime": "638 ms",
               "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Target Sum/"
+            },
+            "123456789101112131415161718class solution {    int count=0;    public int findtargetsumways(int[] nums, int target) {        back(nums,0,0,target);        return count;            }    public void back(int nums[],int index,int sum,int target){        if(index==nums.length){            if(sum==target){                count++;            }            return;        }        back(nums,index+1,sum+nums[index],target);        back(nums,index+1,sum-nums[index],target);    }}": {
+              "syncedAt": 1785837831560,
+              "runtime": "638 ms",
+              "memory": "43.33 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
             }
           }
