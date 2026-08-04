@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835332152" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835348228" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,22 +24,31 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 463 | [Island Perimeter](./Array/Island%20Perimeter/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
+| 999 | [Available Captures for Rook](./Array/Available%20Captures%20for%20Rook/) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
+| 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 
 </details>
@@ -102,6 +111,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
+| 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
+| 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
 
 </details>
 
@@ -113,6 +124,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 
@@ -139,6 +151,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
+| 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
 
 </details>
 

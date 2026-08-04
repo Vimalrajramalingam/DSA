@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:22:12.151Z",
+  "lastUpdated": "2026-08-04T09:22:28.227Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1060,6 +1060,248 @@
               "runtime": "15 ms",
               "memory": "93.1 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "3 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "reverse-linked-list": {
+          "questionId": "206",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "1 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "available-captures-for-rook": {
+          "questionId": "999",
+          "title": "Available Captures for Rook",
+          "titleSlug": "available-captures-for-rook",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Available Captures for Rook/"
+            }
+          }
+        },
+        "count-negative-numbers-in-a-sorted-matrix": {
+          "questionId": "1351",
+          "title": "Count Negative Numbers in a Sorted Matrix",
+          "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Count Negative Numbers in a Sorted Matrix/"
+            }
+          }
+        },
+        "island-perimeter": {
+          "questionId": "463",
+          "title": "Island Perimeter",
+          "titleSlug": "island-perimeter",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "4 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Island Perimeter/"
+            }
+          }
+        },
+        "matrix-diagonal-sum": {
+          "questionId": "1572",
+          "title": "Matrix Diagonal Sum",
+          "titleSlug": "matrix-diagonal-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Matrix Diagonal Sum/"
+            }
+          }
+        },
+        "find-the-highest-altitude": {
+          "questionId": "1732",
+          "title": "Find the Highest Altitude",
+          "titleSlug": "find-the-highest-altitude",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Find the Highest Altitude/"
+            }
+          }
+        },
+        "final-value-of-variable-after-performing-operations": {
+          "questionId": "2011",
+          "title": "Final Value of Variable After Performing Operations",
+          "titleSlug": "final-value-of-variable-after-performing-operations",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Final Value of Variable After Performing Operations/"
+            }
+          }
+        },
+        "transpose-matrix": {
+          "questionId": "867",
+          "title": "Transpose Matrix",
+          "titleSlug": "transpose-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "sorting-the-sentence": {
+          "questionId": "1859",
+          "title": "Sorting the Sentence",
+          "titleSlug": "sorting-the-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Sorting",
+            "Bubble Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835348227,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/String/Sorting the Sentence/"
             }
           }
         }
