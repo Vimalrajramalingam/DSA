@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:22:38.540Z",
+  "lastUpdated": "2026-08-04T09:22:50.286Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1557,6 +1557,315 @@
               "runtime": "0 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "2 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "maximize-sum-of-array-after-k-negations": {
+          "questionId": "1005",
+          "title": "Maximize Sum Of Array After K Negations",
+          "titleSlug": "maximize-sum-of-array-after-k-negations",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "7 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Maximize Sum Of Array After K Negations/"
+            }
+          }
+        },
+        "surface-area-of-3d-shapes": {
+          "questionId": "892",
+          "title": "Surface Area of 3D Shapes",
+          "titleSlug": "surface-area-of-3d-shapes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "7 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Array/Surface Area of 3D Shapes/"
+            }
+          }
+        },
+        "fair-candy-swap": {
+          "questionId": "888",
+          "title": "Fair Candy Swap",
+          "titleSlug": "fair-candy-swap",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "213 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Fair Candy Swap/"
+            }
+          }
+        },
+        "design-hashset": {
+          "questionId": "705",
+          "title": "Design HashSet",
+          "titleSlug": "design-hashset",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Hash Function"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "12 ms",
+              "memory": "52.1 MB",
+              "githubPath": "LeetCode/Array/Design HashSet/"
+            }
+          }
+        },
+        "count-largest-group": {
+          "questionId": "1399",
+          "title": "Count Largest Group",
+          "titleSlug": "count-largest-group",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "14 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Hash Table/Count Largest Group/"
+            }
+          }
+        },
+        "maximum-number-of-balloons": {
+          "questionId": "1189",
+          "title": "Maximum Number of Balloons",
+          "titleSlug": "maximum-number-of-balloons",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "2 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Hash Table/Maximum Number of Balloons/"
+            }
+          }
+        },
+        "shortest-palindrome": {
+          "questionId": "214",
+          "title": "Shortest Palindrome",
+          "titleSlug": "shortest-palindrome",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Rolling Hash",
+            "String Matching",
+            "Hash Function",
+            "Manacher",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "9 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/String/Shortest Palindrome/"
+            }
+          }
+        },
+        "fraction-to-recurring-decimal": {
+          "questionId": "166",
+          "title": "Fraction to Recurring Decimal",
+          "titleSlug": "fraction-to-recurring-decimal",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "1 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
+            }
+          }
+        },
+        "word-break": {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization",
+            "Brute-Force Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "8 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Word Break/"
+            }
+          }
+        },
+        "minimize-string-length": {
+          "questionId": "2716",
+          "title": "Minimize String Length",
+          "titleSlug": "minimize-string-length",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "17 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Hash Table/Minimize String Length/"
+            }
+          }
+        },
+        "number-of-senior-citizens": {
+          "questionId": "2678",
+          "title": "Number of Senior Citizens",
+          "titleSlug": "number-of-senior-citizens",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Number of Senior Citizens/"
+            }
+          }
+        },
+        "delete-characters-to-make-fancy-string": {
+          "questionId": "1957",
+          "title": "Delete Characters to Make Fancy String",
+          "titleSlug": "delete-characters-to-make-fancy-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "25 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/String/Delete Characters to Make Fancy String/"
+            }
+          }
+        },
+        "reverse-prefix-of-word": {
+          "questionId": "2000",
+          "title": "Reverse Prefix of Word",
+          "titleSlug": "reverse-prefix-of-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
+            }
+          }
+        },
+        "check-if-numbers-are-ascending-in-a-sentence": {
+          "questionId": "2042",
+          "title": "Check if Numbers Are Ascending in a Sentence",
+          "titleSlug": "check-if-numbers-are-ascending-in-a-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "7 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/String/Check if Numbers Are Ascending in a Sentence/"
+            }
+          }
+        },
+        "path-crossing": {
+          "questionId": "1496",
+          "title": "Path Crossing",
+          "titleSlug": "path-crossing",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835370286,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Hash Table/Path Crossing/"
             }
           }
         }
