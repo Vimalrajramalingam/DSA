@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:23:25.558Z",
+  "lastUpdated": "2026-08-04T09:23:36.054Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2682,6 +2682,313 @@
               "runtime": "3 ms",
               "memory": "54 MB",
               "githubPath": "LeetCode/Array/Find the Town Judge/"
+            }
+          }
+        },
+        "largest-perimeter-triangle": {
+          "questionId": "976",
+          "title": "Largest Perimeter Triangle",
+          "titleSlug": "largest-perimeter-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Greedy",
+            "Sorting",
+            "Quicksort",
+            "Polygons"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416053,
+              "runtime": "8 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
+            }
+          }
+        },
+        "smallest-range-i": {
+          "questionId": "908",
+          "title": "Smallest Range I",
+          "titleSlug": "smallest-range-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416053,
+              "runtime": "3 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Smallest Range I/"
+            }
+          }
+        },
+        "flood-fill": {
+          "questionId": "733",
+          "title": "Flood Fill",
+          "titleSlug": "flood-fill",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416053,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Flood Fill/"
+            }
+          }
+        },
+        "convert-a-number-to-hexadecimal": {
+          "questionId": "405",
+          "title": "Convert a Number to Hexadecimal",
+          "titleSlug": "convert-a-number-to-hexadecimal",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "0 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
+            }
+          }
+        },
+        "slowest-key": {
+          "questionId": "1629",
+          "title": "Slowest Key",
+          "titleSlug": "slowest-key",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Slowest Key/"
+            }
+          }
+        },
+        "number-of-good-pairs": {
+          "questionId": "1512",
+          "title": "Number of Good Pairs",
+          "titleSlug": "number-of-good-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "1 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Number of Good Pairs/"
+            }
+          }
+        },
+        "destination-city": {
+          "questionId": "1436",
+          "title": "Destination City",
+          "titleSlug": "destination-city",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "2 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Destination City/"
+            }
+          }
+        },
+        "most-common-word": {
+          "questionId": "819",
+          "title": "Most Common Word",
+          "titleSlug": "most-common-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "17 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Most Common Word/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "0 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
+            }
+          }
+        },
+        "baseball-game": {
+          "questionId": "682",
+          "title": "Baseball Game",
+          "titleSlug": "baseball-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "2 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Array/Baseball Game/"
+            }
+          }
+        },
+        "array-partition": {
+          "questionId": "561",
+          "title": "Array Partition",
+          "titleSlug": "array-partition",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "12 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "0 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "133 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "combinations": {
+          "questionId": "77",
+          "title": "Combinations",
+          "titleSlug": "combinations",
+          "difficulty": "Medium",
+          "tags": [
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "18 ms",
+              "memory": "94.8 MB",
+              "githubPath": "LeetCode/Backtracking/Combinations/"
+            }
+          }
+        },
+        "regular-expression-matching": {
+          "questionId": "10",
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835416054,
+              "runtime": "2 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/String/Regular Expression Matching/"
             }
           }
         }
