@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835437968" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835448044" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,18 +24,24 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
+| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
+| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
@@ -223,7 +229,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
+| 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 279 | [Perfect Squares](./Math/Perfect%20Squares/) | Medium |
+| 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 504 | [Base 7](./Math/Base%207/) | Easy |
@@ -241,6 +249,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
 | 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
 
 </details>
@@ -255,6 +264,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
+| 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
@@ -279,6 +289,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
+| 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 110 | [Balanced Binary Tree](./Tree/Balanced%20Binary%20Tree/) | Easy |
 | 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
