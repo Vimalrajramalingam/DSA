@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:24:08.043Z",
+  "lastUpdated": "2026-08-04T09:24:14.671Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3658,6 +3658,119 @@
               "runtime": "2 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835454671,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835454671,
+              "runtime": "5 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835454671,
+              "runtime": "5 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "find-the-number-of-ways-to-place-people-i": {
+          "questionId": "3025",
+          "title": "Find the Number of Ways to Place People I",
+          "titleSlug": "find-the-number-of-ways-to-place-people-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry",
+            "Sorting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835454671,
+              "runtime": "20 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Find the Number of Ways to Place People I/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835454671,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835454671,
+              "runtime": "49 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
         }
