@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835393072" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835405569" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -51,6 +51,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 705 | [Design HashSet](./Array/Design%20HashSet/) | Easy |
+| 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 746 | [Min Cost Climbing Stairs](./Array/Min%20Cost%20Climbing%20Stairs/) | Easy |
 | 806 | [Number of Lines To Write String](./Array/Number%20of%20Lines%20To%20Write%20String/) | Easy |
 | 812 | [Largest Triangle Area](./Array/Largest%20Triangle%20Area/) | Easy |
@@ -59,27 +60,38 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 892 | [Surface Area of 3D Shapes](./Array/Surface%20Area%20of%203D%20Shapes/) | Easy |
 | 941 | [Valid Mountain Array](./Array/Valid%20Mountain%20Array/) | Easy |
 | 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
+| 997 | [Find the Town Judge](./Array/Find%20the%20Town%20Judge/) | Easy |
 | 999 | [Available Captures for Rook](./Array/Available%20Captures%20for%20Rook/) | Easy |
 | 1002 | [Find Common Characters](./Array/Find%20Common%20Characters/) | Easy |
 | 1005 | [Maximize Sum Of Array After K Negations](./Array/Maximize%20Sum%20Of%20Array%20After%20K%20Negations/) | Easy |
+| 1037 | [Valid Boomerang](./Array/Valid%20Boomerang/) | Easy |
 | 1051 | [Height Checker](./Array/Height%20Checker/) | Easy |
 | 1232 | [Check If It Is a Straight Line](./Array/Check%20If%20It%20Is%20a%20Straight%20Line/) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
+| 1346 | [Check If N and Its Double Exist](./Array/Check%20If%20N%20and%20Its%20Double%20Exist/) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](./Array/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/) | Easy |
 | 1450 | [Number of Students Doing Homework at a Given Time](./Array/Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
+| 1534 | [Count Good Triplets](./Array/Count%20Good%20Triplets/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
+| 1652 | [Defuse the Bomb](./Array/Defuse%20the%20Bomb/) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](./Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
 | 1816 | [Truncate Sentence](./Array/Truncate%20Sentence/) | Easy |
+| 1848 | [Minimum Distance to the Target Element](./Array/Minimum%20Distance%20to%20the%20Target%20Element/) | Easy |
+| 1913 | [Maximum Product Difference Between Two Pairs](./Array/Maximum%20Product%20Difference%20Between%20Two%20Pairs/) | Easy |
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](./Array/Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) | Easy |
+| 2154 | [Keep Multiplying Found Values by Two](./Array/Keep%20Multiplying%20Found%20Values%20by%20Two/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 2293 | [Min Max Game](./Array/Min%20Max%20Game/) | Easy |
+| 2347 | [Best Poker Hand](./Array/Best%20Poker%20Hand/) | Easy |
 | 2418 | [Sort the People](./Array/Sort%20the%20People/) | Easy |
 | 2644 | [Find the Maximum Divisibility Score](./Array/Find%20the%20Maximum%20Divisibility%20Score/) | Easy |
 | 2678 | [Number of Senior Citizens](./Array/Number%20of%20Senior%20Citizens/) | Easy |
@@ -167,7 +179,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
+| 279 | [Perfect Squares](./Math/Perfect%20Squares/) | Medium |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 504 | [Base 7](./Math/Base%207/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
@@ -199,6 +213,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
+| 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 824 | [Goat Latin](./String/Goat%20Latin/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
