@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:46:29.495Z",
+  "lastUpdated": "2026-08-04T10:01:24.429Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3777,6 +3777,27 @@
               "runtime": "49 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "target-sum": {
+          "questionId": "494",
+          "title": "Target Sum",
+          "titleSlug": "target-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785837684428,
+              "runtime": "638 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Target Sum/"
             }
           }
         }
