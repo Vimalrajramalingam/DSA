@@ -1,85 +1,25 @@
 # DSA
 
 <!-- ALGOVAULT:STATS:START -->
-# 🚀 Data Structures & Algorithms Master Repository
+# 🏆 Ultimate Competitive Programming & DSA Vault
 
-A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
+Welcome to my **Master Repository** for Data Structures, Algorithms, and Competitive Programming! 🚀
+
+This repository contains my personal library of highly optimized, strictly tested, and structured solutions to problems across multiple platforms. It is designed to track my progress, document optimal coding patterns, and demonstrate technical excellence in problem-solving.
+
+## 📊 Real-Time Performance Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vimal_raj_R?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835279945" width="100%" />
 </p>
 
-# 📚 Structured Problem Solving Topics
+## 📂 Repository Structure
 
+- **[LeetCode](./LeetCode)**: Topic-wise FAANG interview preparation and algorithmic challenges.
 
-### Array
-<details>
-<summary>Click to expand Array problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
-| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
-| 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
-| 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
-
-</details>
-
-
-### Database
-<details>
-<summary>Click to expand Database problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
-| 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
-| 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
-| 586 | [Customer Placing the Largest Number of Orders](./Database/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/) | Easy |
-| 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
-
-</details>
-
-
-### Hash Table
-<details>
-<summary>Click to expand Hash Table problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Easy |
-| 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
-| 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
-| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
-| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
-
-</details>
-
-
-### String
-<details>
-<summary>Click to expand String problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
-
-</details>
-
-
-### Two Pointers
-<details>
-<summary>Click to expand Two Pointers problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
-
-</details>
-
-
+---
 <p align="center">
-Building Technical Excellence Through Consistent Problem Solving.
+  <i>Auto-generated & continuously synced by <b>AlgoVault</b>. Building technical excellence through consistent problem solving.</i>
 </p>
 
 <!-- ALGOVAULT:STATS:END -->
