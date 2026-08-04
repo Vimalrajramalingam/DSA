@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:23:03.884Z",
+  "lastUpdated": "2026-08-04T09:23:13.070Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2194,6 +2194,214 @@
               "runtime": "2 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Surrounded Regions/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "17 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "15 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
+            }
+          }
+        },
+        "bitwise-or-of-even-numbers-in-an-array": {
+          "questionId": "3688",
+          "title": "Bitwise OR of Even Numbers in an Array",
+          "titleSlug": "bitwise-or-of-even-numbers-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Bitwise OR of Even Numbers in an Array/"
+            }
+          }
+        },
+        "reverse-words-in-a-string-iii": {
+          "questionId": "557",
+          "title": "Reverse Words in a String III",
+          "titleSlug": "reverse-words-in-a-string-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "4 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
+            }
+          }
+        },
+        "sum-game": {
+          "questionId": "1927",
+          "title": "Sum Game",
+          "titleSlug": "sum-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Greedy",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "8 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Math/Sum Game/"
+            }
+          }
+        },
+        "3sum": {
+          "questionId": "15",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "32 ms",
+              "memory": "51.3 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            }
+          }
+        },
+        "number-of-students-doing-homework-at-a-given-time": {
+          "questionId": "1450",
+          "title": "Number of Students Doing Homework at a Given Time",
+          "titleSlug": "number-of-students-doing-homework-at-a-given-time",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Array/Number of Students Doing Homework at a Given Time/"
+            }
+          }
+        },
+        "check-if-it-is-a-straight-line": {
+          "questionId": "1232",
+          "title": "Check If It Is a Straight Line",
+          "titleSlug": "check-if-it-is-a-straight-line",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "0 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Check If It Is a Straight Line/"
+            }
+          }
+        },
+        "height-checker": {
+          "questionId": "1051",
+          "title": "Height Checker",
+          "titleSlug": "height-checker",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Counting Sort",
+            "Bubble Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "2 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Height Checker/"
+            }
+          }
+        },
+        "min-cost-climbing-stairs": {
+          "questionId": "746",
+          "title": "Min Cost Climbing Stairs",
+          "titleSlug": "min-cost-climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Min Cost Climbing Stairs/"
+            }
+          }
+        },
+        "largest-triangle-area": {
+          "questionId": "812",
+          "title": "Largest Triangle Area",
+          "titleSlug": "largest-triangle-area",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry",
+            "Polygons"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835393070,
+              "runtime": "9 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Largest Triangle Area/"
             }
           }
         }

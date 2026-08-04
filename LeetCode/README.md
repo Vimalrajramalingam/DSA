@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835383887" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835393072" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,6 +17,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 15 | [3Sum](./Array/3Sum/) | Medium |
+| 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
+| 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
@@ -48,7 +51,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 705 | [Design HashSet](./Array/Design%20HashSet/) | Easy |
+| 746 | [Min Cost Climbing Stairs](./Array/Min%20Cost%20Climbing%20Stairs/) | Easy |
 | 806 | [Number of Lines To Write String](./Array/Number%20of%20Lines%20To%20Write%20String/) | Easy |
+| 812 | [Largest Triangle Area](./Array/Largest%20Triangle%20Area/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 888 | [Fair Candy Swap](./Array/Fair%20Candy%20Swap/) | Easy |
 | 892 | [Surface Area of 3D Shapes](./Array/Surface%20Area%20of%203D%20Shapes/) | Easy |
@@ -57,8 +62,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 999 | [Available Captures for Rook](./Array/Available%20Captures%20for%20Rook/) | Easy |
 | 1002 | [Find Common Characters](./Array/Find%20Common%20Characters/) | Easy |
 | 1005 | [Maximize Sum Of Array After K Negations](./Array/Maximize%20Sum%20Of%20Array%20After%20K%20Negations/) | Easy |
+| 1051 | [Height Checker](./Array/Height%20Checker/) | Easy |
+| 1232 | [Check If It Is a Straight Line](./Array/Check%20If%20It%20Is%20a%20Straight%20Line/) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
+| 1450 | [Number of Students Doing Homework at a Given Time](./Array/Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
@@ -77,6 +85,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2678 | [Number of Senior Citizens](./Array/Number%20of%20Senior%20Citizens/) | Easy |
 | 2784 | [Check if Array is Good](./Array/Check%20if%20Array%20is%20Good/) | Easy |
 | 2903 | [Find Indices With Index and Value Difference I](./Array/Find%20Indices%20With%20Index%20and%20Value%20Difference%20I/) | Easy |
+| 3688 | [Bitwise OR of Even Numbers in an Array](./Array/Bitwise%20OR%20of%20Even%20Numbers%20in%20an%20Array/) | Easy |
 
 </details>
 
@@ -163,6 +172,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 504 | [Base 7](./Math/Base%207/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
+| 1927 | [Sum Game](./Math/Sum%20Game/) | Medium |
 
 </details>
 
@@ -222,6 +232,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
+| 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 925 | [Long Pressed Name](./Two%20Pointers/Long%20Pressed%20Name/) | Easy |
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
 | 3794 | [Reverse String Prefix](./Two%20Pointers/Reverse%20String%20Prefix/) | Easy |
