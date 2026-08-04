@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:22:28.227Z",
+  "lastUpdated": "2026-08-04T09:22:38.540Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1302,6 +1302,261 @@
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/String/Sorting the Sentence/"
+            }
+          }
+        },
+        "check-if-two-string-arrays-are-equivalent": {
+          "questionId": "1662",
+          "title": "Check If Two String Arrays are Equivalent",
+          "titleSlug": "check-if-two-string-arrays-are-equivalent",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Check If Two String Arrays are Equivalent/"
+            }
+          }
+        },
+        "shuffle-string": {
+          "questionId": "1528",
+          "title": "Shuffle String",
+          "titleSlug": "shuffle-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "1 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Array/Shuffle String/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            }
+          }
+        },
+        "string-compression": {
+          "questionId": "443",
+          "title": "String Compression",
+          "titleSlug": "string-compression",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "1 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Two Pointers/String Compression/"
+            }
+          }
+        },
+        "defanging-an-ip-address": {
+          "questionId": "1108",
+          "title": "Defanging an IP Address",
+          "titleSlug": "defanging-an-ip-address",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Defanging an IP Address/"
+            }
+          }
+        },
+        "maximum-number-of-words-found-in-sentences": {
+          "questionId": "2114",
+          "title": "Maximum Number of Words Found in Sentences",
+          "titleSlug": "maximum-number-of-words-found-in-sentences",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "4 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Maximum Number of Words Found in Sentences/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "4 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "gas-station": {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "2 ms",
+              "memory": "119.5 MB",
+              "githubPath": "LeetCode/Array/Gas Station/"
+            }
+          }
+        },
+        "rotate-array": {
+          "questionId": "189",
+          "title": "Rotate Array",
+          "titleSlug": "rotate-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "2 ms",
+              "memory": "61.2 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
+            }
+          }
+        },
+        "squares-of-a-sorted-array": {
+          "questionId": "977",
+          "title": "Squares of a Sorted Array",
+          "titleSlug": "squares-of-a-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "1 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Squares of a Sorted Array/"
+            }
+          }
+        },
+        "next-permutation": {
+          "questionId": "31",
+          "title": "Next Permutation",
+          "titleSlug": "next-permutation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Next Permutation/"
+            }
+          }
+        },
+        "find-first-and-last-position-of-element-in-sorted-array": {
+          "questionId": "34",
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "1 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting",
+            "Boyer–Moore Majority Vote Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "1 ms",
+              "memory": "54.5 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835358540,
+              "runtime": "0 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
             }
           }
         }
