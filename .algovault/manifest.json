@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:42:15.558Z",
+  "lastUpdated": "2026-08-04T09:46:29.495Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -19,6 +19,12 @@
               "syncedAt": 1785836535558,
               "runtime": "3 ms",
               "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Subsets II/"
+            },
+            "123456789101112131415161718192021class solution {    list<list<integer>> res = new arraylist<>();    public list<list<integer>> subsetswithdup(int[] nums) {        arrays.sort(nums);        list<integer> cur = new arraylist<>();        back(nums,0,cur);        return res;    }    public void back(int nums[],int index,list<integer> cur){        res.add(new arraylist<>(cur));        for(int i=index;i<nums.length;i++){            if(i>index && nums[i]==nums[i-1]){                continue;            }            cur.add(nums[i]);            back(nums,i+1,cur);            cur.remove(cur.size()-1);        }    }}": {
+              "syncedAt": 1785836789495,
+              "runtime": "2 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Subsets II/"
             }
           }
