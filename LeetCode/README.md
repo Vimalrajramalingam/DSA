@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835416055" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835428079" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -35,6 +35,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
+| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
@@ -147,6 +148,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Divide and Conquer
+<details>
+<summary>Click to expand Divide and Conquer problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 190 | [Reverse Bits](./Divide%20and%20Conquer/Reverse%20Bits/) | Easy |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -154,10 +166,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
+| 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
@@ -192,13 +206,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
+| 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 279 | [Perfect Squares](./Math/Perfect%20Squares/) | Medium |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 504 | [Base 7](./Math/Base%207/) | Easy |
+| 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 | 1927 | [Sum Game](./Math/Sum%20Game/) | Medium |
@@ -224,6 +241,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
@@ -249,6 +267,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
+| 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 110 | [Balanced Binary Tree](./Tree/Balanced%20Binary%20Tree/) | Easy |
+| 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
 
 </details>
 
@@ -259,6 +280,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
