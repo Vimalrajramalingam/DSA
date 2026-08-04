@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:21:39.113Z",
+  "lastUpdated": "2026-08-04T09:21:50.057Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -525,6 +525,241 @@
               "runtime": "1 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Find Numbers with Even Number of Digits/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "calculate-special-bonus": {
+          "questionId": "1873",
+          "title": "Calculate Special Bonus",
+          "titleSlug": "calculate-special-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785835310057,
+              "runtime": "569 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Calculate Special Bonus/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785835310057,
+              "runtime": "560 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1785835310057,
+              "runtime": "278 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "validate-binary-search-tree": {
+          "questionId": "98",
+          "title": "Validate Binary Search Tree",
+          "titleSlug": "validate-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "0 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
+            }
+          }
+        },
+        "subtract-the-product-and-sum-of-digits-of-an-integer": {
+          "questionId": "1281",
+          "title": "Subtract the Product and Sum of Digits of an Integer",
+          "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
+            }
+          }
+        },
+        "number-of-steps-to-reduce-a-number-to-zero": {
+          "questionId": "1342",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "7 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "20 ms",
+              "memory": "80.9 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "maximum-number-of-vowels-in-a-substring-of-given-length": {
+          "questionId": "1456",
+          "title": "Maximum Number of Vowels in a Substring of Given Length",
+          "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "13 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
+            }
+          }
+        },
+        "minimum-window-substring": {
+          "questionId": "76",
+          "title": "Minimum Window Substring",
+          "titleSlug": "minimum-window-substring",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835310057,
+              "runtime": "2 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
             }
           }
         }
