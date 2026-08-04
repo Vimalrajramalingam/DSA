@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:41:40.853Z",
+  "lastUpdated": "2026-08-04T09:42:15.558Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,9 +16,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785836500853,
+              "syncedAt": 1785836535558,
               "runtime": "3 ms",
-              "memory": "44.8 MB",
+              "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
             }
           }
