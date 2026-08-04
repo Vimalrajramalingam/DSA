@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T09:22:50.286Z",
+  "lastUpdated": "2026-08-04T09:23:03.884Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1866,6 +1866,334 @@
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Hash Table/Path Crossing/"
+            }
+          }
+        },
+        "long-pressed-name": {
+          "questionId": "925",
+          "title": "Long Pressed Name",
+          "titleSlug": "long-pressed-name",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Long Pressed Name/"
+            }
+          }
+        },
+        "sort-the-people": {
+          "questionId": "2418",
+          "title": "Sort the People",
+          "titleSlug": "sort-the-people",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "7 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Sort the People/"
+            }
+          }
+        },
+        "find-indices-with-index-and-value-difference-i": {
+          "questionId": "2903",
+          "title": "Find Indices With Index and Value Difference I",
+          "titleSlug": "find-indices-with-index-and-value-difference-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "1 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Find Indices With Index and Value Difference I/"
+            }
+          }
+        },
+        "check-if-array-is-good": {
+          "questionId": "2784",
+          "title": "Check if Array is Good",
+          "titleSlug": "check-if-array-is-good",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Check if Array is Good/"
+            }
+          }
+        },
+        "find-the-maximum-divisibility-score": {
+          "questionId": "2644",
+          "title": "Find the Maximum Divisibility Score",
+          "titleSlug": "find-the-maximum-divisibility-score",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "176 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Find the Maximum Divisibility Score/"
+            }
+          }
+        },
+        "truncate-sentence": {
+          "questionId": "1816",
+          "title": "Truncate Sentence",
+          "titleSlug": "truncate-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "1 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Truncate Sentence/"
+            }
+          }
+        },
+        "valid-mountain-array": {
+          "questionId": "941",
+          "title": "Valid Mountain Array",
+          "titleSlug": "valid-mountain-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "2 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Valid Mountain Array/"
+            }
+          }
+        },
+        "number-of-lines-to-write-string": {
+          "questionId": "806",
+          "title": "Number of Lines To Write String",
+          "titleSlug": "number-of-lines-to-write-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Number of Lines To Write String/"
+            }
+          }
+        },
+        "set-mismatch": {
+          "questionId": "645",
+          "title": "Set Mismatch",
+          "titleSlug": "set-mismatch",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "3 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Set Mismatch/"
+            }
+          }
+        },
+        "reformat-the-string": {
+          "questionId": "1417",
+          "title": "Reformat The String",
+          "titleSlug": "reformat-the-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "4 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/String/Reformat The String/"
+            }
+          }
+        },
+        "increasing-decreasing-string": {
+          "questionId": "1370",
+          "title": "Increasing Decreasing String",
+          "titleSlug": "increasing-decreasing-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "3 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Hash Table/Increasing Decreasing String/"
+            }
+          }
+        },
+        "find-common-characters": {
+          "questionId": "1002",
+          "title": "Find Common Characters",
+          "titleSlug": "find-common-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Find Common Characters/"
+            }
+          }
+        },
+        "buddy-strings": {
+          "questionId": "859",
+          "title": "Buddy Strings",
+          "titleSlug": "buddy-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Hash Table/Buddy Strings/"
+            }
+          }
+        },
+        "goat-latin": {
+          "questionId": "824",
+          "title": "Goat Latin",
+          "titleSlug": "goat-latin",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/String/Goat Latin/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "base-7": {
+          "questionId": "504",
+          "title": "Base 7",
+          "titleSlug": "base-7",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "0 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Math/Base 7/"
+            }
+          }
+        },
+        "detect-capital": {
+          "questionId": "520",
+          "title": "Detect Capital",
+          "titleSlug": "detect-capital",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "2 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/String/Detect Capital/"
+            }
+          }
+        },
+        "surrounded-regions": {
+          "questionId": "130",
+          "title": "Surrounded Regions",
+          "titleSlug": "surrounded-regions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785835383884,
+              "runtime": "2 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Surrounded Regions/"
             }
           }
         }

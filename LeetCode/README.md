@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835370287" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1785835383887" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -30,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
+| 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
@@ -45,12 +46,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 705 | [Design HashSet](./Array/Design%20HashSet/) | Easy |
+| 806 | [Number of Lines To Write String](./Array/Number%20of%20Lines%20To%20Write%20String/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 888 | [Fair Candy Swap](./Array/Fair%20Candy%20Swap/) | Easy |
 | 892 | [Surface Area of 3D Shapes](./Array/Surface%20Area%20of%203D%20Shapes/) | Easy |
+| 941 | [Valid Mountain Array](./Array/Valid%20Mountain%20Array/) | Easy |
 | 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
 | 999 | [Available Captures for Rook](./Array/Available%20Captures%20for%20Rook/) | Easy |
+| 1002 | [Find Common Characters](./Array/Find%20Common%20Characters/) | Easy |
 | 1005 | [Maximize Sum Of Array After K Negations](./Array/Maximize%20Sum%20Of%20Array%20After%20K%20Negations/) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
@@ -61,12 +66,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1662 | [Check If Two String Arrays are Equivalent](./Array/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
+| 1816 | [Truncate Sentence](./Array/Truncate%20Sentence/) | Easy |
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2114 | [Maximum Number of Words Found in Sentences](./Array/Maximum%20Number%20of%20Words%20Found%20in%20Sentences/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 2418 | [Sort the People](./Array/Sort%20the%20People/) | Easy |
+| 2644 | [Find the Maximum Divisibility Score](./Array/Find%20the%20Maximum%20Divisibility%20Score/) | Easy |
 | 2678 | [Number of Senior Citizens](./Array/Number%20of%20Senior%20Citizens/) | Easy |
+| 2784 | [Check if Array is Good](./Array/Check%20if%20Array%20is%20Good/) | Easy |
+| 2903 | [Find Indices With Index and Value Difference I](./Array/Find%20Indices%20With%20Index%20and%20Value%20Difference%20I/) | Easy |
 
 </details>
 
@@ -119,7 +129,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
+| 859 | [Buddy Strings](./Hash%20Table/Buddy%20Strings/) | Easy |
 | 1189 | [Maximum Number of Balloons](./Hash%20Table/Maximum%20Number%20of%20Balloons/) | Easy |
+| 1370 | [Increasing Decreasing String](./Hash%20Table/Increasing%20Decreasing%20String/) | Easy |
 | 1399 | [Count Largest Group](./Hash%20Table/Count%20Largest%20Group/) | Easy |
 | 1496 | [Path Crossing](./Hash%20Table/Path%20Crossing/) | Easy |
 | 2716 | [Minimize String Length](./Hash%20Table/Minimize%20String%20Length/) | Easy |
@@ -148,6 +160,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 504 | [Base 7](./Math/Base%207/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 
@@ -174,8 +187,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
+| 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
+| 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
+| 824 | [Goat Latin](./String/Goat%20Latin/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1108 | [Defanging an IP Address](./String/Defanging%20an%20IP%20Address/) | Easy |
+| 1417 | [Reformat The String](./String/Reformat%20The%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
 | 1957 | [Delete Characters to Make Fancy String](./String/Delete%20Characters%20to%20Make%20Fancy%20String/) | Easy |
@@ -205,6 +222,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
+| 925 | [Long Pressed Name](./Two%20Pointers/Long%20Pressed%20Name/) | Easy |
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
 | 3794 | [Reverse String Prefix](./Two%20Pointers/Reverse%20String%20Prefix/) | Easy |
 
