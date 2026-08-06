@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T09:16:37.567Z",
+  "lastUpdated": "2026-08-06T09:32:13.392Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3835,6 +3835,24 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            }
+          }
+        },
+        "find-the-middle-index-in-array": {
+          "questionId": "1991",
+          "title": "Find the Middle Index in Array",
+          "titleSlug": "find-the-middle-index-in-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786008733392,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Find the Middle Index in Array/"
             }
           }
         }
