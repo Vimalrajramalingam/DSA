@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T06:02:22.519Z",
+  "lastUpdated": "2026-08-06T06:07:30.105Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3828,6 +3828,12 @@
               "syncedAt": 1785995942843,
               "runtime": "3 ms",
               "memory": "48.8 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            },
+            "123456789101112131415161718192021222324252627282930class solution {    list<string> res = new arraylist<>();    public list<string> lettercombinations(string digits) {        if(digits.length()==0){            return res;        }        hashmap<character,string> map = new hashmap<>();        map.put('2', \"abc\");        map.put('3', \"def\");        map.put('4', \"ghi\");        map.put('5', \"jkl\");        map.put('6', \"mno\");        map.put('7', \"pqrs\");        map.put('8', \"tuv\");        map.put('9', \"wxyz\");        back(digits,0,\"\",map);        return res;    }    public void back(string digits,int index,string curr,hashmap<character,string> map){        if(index==digits.length()){            res.add(curr);            return;        }        string letter = map.get(digits.charat(index));        for(int i=0;i<letter.length();i++){            back(digits,index+1,curr+letter.charat(i),map);        }    }}": {
+              "syncedAt": 1785996450105,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
             }
           }

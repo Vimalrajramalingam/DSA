@@ -1,0 +1,30 @@
+class Solution {
+    List<String> res = new ArrayList<>();
+    public List<String> letterCombinations(String digits) {
+        if(digits.length()==0){
+            return res;
+        }
+        HashMap<Character,String> map = new HashMap<>();
+        map.put('2', "abc");
+        map.put('3', "def");
+        map.put('4', "ghi");
+        map.put('5', "jkl");
+        map.put('6', "mno");
+        map.put('7', "pqrs");
+        map.put('8', "tuv");
+        map.put('9', "wxyz");
+        back(digits,0,"",map);
+        return res;
+    }
+    public void back(String digits,int index,String curr,HashMap<Character,String> map){
+        if(index==digits.length()){
+            res.add(curr);
+            return;
+        }
+        String letter = map.get(digits.charAt(index));
+        for(int i=0;i<letter.length();i++){
+            back(digits,index+1,curr+letter.charAt(i),map);
+        }
+
+    }
+}
