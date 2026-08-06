@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T06:41:50.317Z",
+  "lastUpdated": "2026-08-06T08:22:30.357Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2955,9 +2955,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116881,
-              "runtime": "133 ms",
-              "memory": "41.7 MB",
+              "syncedAt": 1786004550356,
+              "runtime": "137 ms",
+              "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Word Search/"
             }
           }

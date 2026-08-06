@@ -1,38 +1,36 @@
 class Solution {
     public boolean exist(char[][] board, String word) {
-        int rows = board.length;
-        int cols = board[0].length;
-
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (board[r][c] == word.charAt(0) && dfs(board, word, r, c, 0)) {
-                    return true;
+        int index=0;
+        for(int i=0;i<board.length;i++){
+            for(int j=0;j<board[0].length;j++){
+                if(board[i][j]==word.charAt(index)){
+                    if(back(i,j,board,word,index)){
+                        return true;
+                    }
                 }
+                
             }
         }
-        return false;
+        return false;        
     }
-
-    private boolean dfs(char[][] board, String word, int r, int c, int idx) {
-        if (idx == word.length()) {
+    public boolean back(int i,int j,char[][] board,String word,int index){
+        if (index == word.length()) {
             return true;
         }
-
-        if (r < 0 || r >= board.length || c < 0 || c >= board[0].length || board[r][c] != word.charAt(idx)) {
+        if (i < 0 || i >= board.length ||
+            j < 0 || j >= board[0].length ||
+            board[i][j] != word.charAt(index)) {
             return false;
         }
-
-        char originalChar = board[r][c];
-        board[r][c] = '#'; 
-
-        boolean found = dfs(board, word, r + 1, c, idx + 1) ||
-         dfs(board, word, r - 1, c, idx + 1) ||
-                        dfs(board, word, r, c + 1, idx + 1) ||
-                        dfs(board, word, r, c - 1, idx + 1);
-
-        board[r][c] = originalChar; 
+        char temp = board[i][j];
+        board[i][j] = '#';
+        boolean found =
+                back(i + 1, j, board, word, index + 1) ||   
+                back(i - 1, j, board, word, index + 1) ||   
+                back(i, j + 1, board, word, index + 1) ||   
+                back(i, j - 1, board, word, index + 1);     
+        board[i][j] = temp;
 
         return found;
     }
 }
-    
