@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T05:59:37.729Z",
+  "lastUpdated": "2026-08-06T05:59:41.165Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -838,7 +838,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835317590,
+              "syncedAt": 1785995981165,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
