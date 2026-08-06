@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T11:09:22.919Z",
+  "lastUpdated": "2026-08-06T11:11:36.385Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3905,9 +3905,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786014155022,
-              "runtime": "8 ms",
-              "memory": "46 MB",
+              "syncedAt": 1786014696384,
+              "runtime": "7 ms",
+              "memory": "46.2 MB",
               "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
             },
             "910111213141516171819202187654321        for (int right = 0; right < s.length(); right++) {            freq[s.charat(right) - 'a']++;            maxfreq = math.max(maxfreq, freq[s.charat(right) - 'a']);            while ((right - left + 1) - maxfreq > k) {                freq[s.charat(left) - 'a']--;                left++;            }        int ans = 0;        int maxfreq = 0;        int left = 0;        int[] freq = new int[26];    public int characterreplacement(string s, int k) {class solution {": {
