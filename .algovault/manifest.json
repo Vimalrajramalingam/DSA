@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T10:33:41.697Z",
+  "lastUpdated": "2026-08-06T11:02:35.023Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3890,6 +3890,25 @@
               "runtime": "9 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
+            }
+          }
+        },
+        "longest-repeating-character-replacement": {
+          "questionId": "424",
+          "title": "Longest Repeating Character Replacement",
+          "titleSlug": "longest-repeating-character-replacement",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786014155022,
+              "runtime": "8 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
             }
           }
         }
