@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T11:09:13.615Z",
+  "lastUpdated": "2026-08-06T05:59:02.844Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785836535558,
+              "syncedAt": 1785995942844,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -41,9 +41,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785836393540,
+              "syncedAt": 1785995942844,
               "runtime": "1 ms",
-              "memory": "44.1 MB",
+              "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Subsets/"
             }
           }
@@ -59,7 +59,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835279534,
+              "syncedAt": 1785995942844,
               "runtime": "526 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
@@ -78,7 +78,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835279534,
+              "syncedAt": 1785995942844,
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -97,7 +97,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835279534,
+              "syncedAt": 1785995942844,
               "runtime": "703 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -856,7 +856,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785841753615,
+              "syncedAt": 1785995942844,
               "runtime": "2 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -2972,7 +2972,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785840308540,
+              "syncedAt": 1785995942844,
               "runtime": "19 ms",
               "memory": "97.6 MB",
               "githubPath": "LeetCode/Backtracking/Combinations/"
@@ -3800,7 +3800,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785837684428,
+              "syncedAt": 1785995942844,
               "runtime": "638 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
@@ -3810,6 +3810,25 @@
               "runtime": "638 ms",
               "memory": "43.33 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
+            }
+          }
+        },
+        "letter-combinations-of-a-phone-number": {
+          "questionId": "17",
+          "title": "Letter Combinations of a Phone Number",
+          "titleSlug": "letter-combinations-of-a-phone-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785995942843,
+              "runtime": "3 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
             }
           }
         }
