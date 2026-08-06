@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T06:00:38.958Z",
+  "lastUpdated": "2026-08-06T06:00:53.194Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1738,7 +1738,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835370286,
+              "syncedAt": 1785996053193,
               "runtime": "1 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
@@ -1761,7 +1761,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835370286,
+              "syncedAt": 1785996053193,
               "runtime": "8 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Word Break/"
@@ -1779,7 +1779,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835370286,
+              "syncedAt": 1785996053193,
               "runtime": "17 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Hash Table/Minimize String Length/"
@@ -1797,7 +1797,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835370286,
+              "syncedAt": 1785996053193,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Number of Senior Citizens/"
@@ -1814,7 +1814,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835370286,
+              "syncedAt": 1785996053193,
               "runtime": "25 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/String/Delete Characters to Make Fancy String/"
@@ -1833,7 +1833,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835370286,
+              "syncedAt": 1785996053193,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
@@ -1850,7 +1850,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835370286,
+              "syncedAt": 1785996053193,
               "runtime": "7 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/String/Check if Numbers Are Ascending in a Sentence/"
@@ -1868,7 +1868,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835370286,
+              "syncedAt": 1785996053193,
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Hash Table/Path Crossing/"
@@ -1886,7 +1886,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053193,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Two Pointers/Long Pressed Name/"
@@ -1906,7 +1906,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053193,
               "runtime": "7 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Sort the People/"
@@ -1924,7 +1924,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053193,
               "runtime": "1 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Find Indices With Index and Value Difference I/"
@@ -1943,7 +1943,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053194,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Check if Array is Good/"
@@ -1960,7 +1960,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053194,
               "runtime": "176 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Find the Maximum Divisibility Score/"
@@ -1978,7 +1978,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053194,
               "runtime": "1 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Truncate Sentence/"
@@ -1995,7 +1995,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053194,
               "runtime": "2 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Valid Mountain Array/"
@@ -2013,7 +2013,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053194,
               "runtime": "1 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Number of Lines To Write String/"
@@ -2033,7 +2033,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053194,
               "runtime": "3 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Set Mismatch/"
@@ -2050,7 +2050,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835383884,
+              "syncedAt": 1785996053194,
               "runtime": "4 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Reformat The String/"
