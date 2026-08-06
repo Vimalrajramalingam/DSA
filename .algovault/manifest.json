@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T05:59:02.844Z",
+  "lastUpdated": "2026-08-06T05:59:10.591Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -115,7 +115,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835279534,
+              "syncedAt": 1785995950591,
               "runtime": "1 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835279534,
+              "syncedAt": 1785995950591,
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -151,7 +151,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835279534,
+              "syncedAt": 1785995950591,
               "runtime": "8 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Backtracking/Binary Watch/"
@@ -170,7 +170,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835290147,
+              "syncedAt": 1785995950591,
               "runtime": "5 ms",
               "memory": "77.2 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
@@ -187,7 +187,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785835290147,
+              "syncedAt": 1785995950591,
               "runtime": "1038 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Students and Examinations/"
@@ -204,7 +204,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785835290147,
+              "syncedAt": 1785995950591,
               "runtime": "513 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -221,7 +221,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785835290147,
+              "syncedAt": 1785995950591,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -238,7 +238,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785835290147,
+              "syncedAt": 1785995950591,
               "runtime": "455 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -255,7 +255,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835290147,
+              "syncedAt": 1785995950591,
               "runtime": "3 ms",
               "memory": "52.4 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
