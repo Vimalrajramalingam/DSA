@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T08:59:39.222Z",
+  "lastUpdated": "2026-08-06T09:15:17.185Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2422,9 +2422,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996075398,
+              "syncedAt": 1786007717185,
               "runtime": "1 ms",
-              "memory": "45.9 MB",
+              "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
             }
           }
