@@ -6,12 +6,12 @@ class Solution {
         return res;
     }
     public void back(int nums[],int start,int sum,int target,List<Integer> cur){
-        if(sum==target){
-        res.add(new ArrayList<>(cur));
-        return ;
-        }
         if(sum>target){
             return;
+        }
+        if(sum==target){
+            res.add(new ArrayList<>(cur));
+            return ;
         }
         for(int i=start;i<nums.length;i++){
             cur.add(nums[i]);

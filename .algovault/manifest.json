@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T06:07:30.105Z",
+  "lastUpdated": "2026-08-06T06:41:50.317Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -856,9 +856,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995942844,
-              "runtime": "2 ms",
-              "memory": "45.8 MB",
+              "syncedAt": 1785998510317,
+              "runtime": "3 ms",
+              "memory": "46 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
             }
           }
