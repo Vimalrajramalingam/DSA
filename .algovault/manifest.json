@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T09:32:13.392Z",
+  "lastUpdated": "2026-08-06T09:54:34.592Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3853,6 +3853,24 @@
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Find the Middle Index in Array/"
+            }
+          }
+        },
+        "smallest-divisible-digit-product-i": {
+          "questionId": "3345",
+          "title": "Smallest Divisible Digit Product I",
+          "titleSlug": "smallest-divisible-digit-product-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786010074592,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
             }
           }
         }
