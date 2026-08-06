@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T09:54:34.592Z",
+  "lastUpdated": "2026-08-06T10:33:41.697Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3871,6 +3871,25 @@
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
+            }
+          }
+        },
+        "merge-intervals": {
+          "questionId": "56",
+          "title": "Merge Intervals",
+          "titleSlug": "merge-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Quicksort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786012421697,
+              "runtime": "9 ms",
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Array/Merge Intervals/"
             }
           }
         }

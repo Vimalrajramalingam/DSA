@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1786010074604" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1786012421712" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -33,6 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
