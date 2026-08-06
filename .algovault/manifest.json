@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T05:59:46.124Z",
+  "lastUpdated": "2026-08-06T05:59:59.235Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -986,7 +986,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835332151,
+              "syncedAt": 1785995999235,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
@@ -1004,7 +1004,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835332151,
+              "syncedAt": 1785995999235,
               "runtime": "1 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Build Array from Permutation/"
@@ -1022,7 +1022,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835332151,
+              "syncedAt": 1785995999235,
               "runtime": "24 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
@@ -1043,7 +1043,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835332151,
+              "syncedAt": 1785995999235,
               "runtime": "2 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
@@ -1062,7 +1062,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835332151,
+              "syncedAt": 1785995999235,
               "runtime": "15 ms",
               "memory": "93.1 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
@@ -1079,7 +1079,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835348227,
+              "syncedAt": 1785995999235,
               "runtime": "3 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Summary Ranges/"
@@ -1098,7 +1098,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835348227,
+              "syncedAt": 1785995999235,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
@@ -1116,7 +1116,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835348227,
+              "syncedAt": 1785995999235,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
@@ -1134,7 +1134,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835348227,
+              "syncedAt": 1785995999235,
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List/"
@@ -1153,7 +1153,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835348227,
+              "syncedAt": 1785995999235,
               "runtime": "1 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Search a 2D Matrix/"
@@ -1172,7 +1172,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835348227,
+              "syncedAt": 1785995999235,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Available Captures for Rook/"
@@ -1191,7 +1191,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835348227,
+              "syncedAt": 1785995999235,
               "runtime": "0 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Count Negative Numbers in a Sorted Matrix/"
