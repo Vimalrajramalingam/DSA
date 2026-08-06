@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T08:22:30.357Z",
+  "lastUpdated": "2026-08-06T08:59:39.222Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -133,9 +133,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995950591,
+              "syncedAt": 1786006779221,
               "runtime": "0 ms",
-              "memory": "44.4 MB",
+              "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
             }
           }
