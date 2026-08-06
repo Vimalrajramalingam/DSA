@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T06:02:08.113Z",
+  "lastUpdated": "2026-08-06T06:02:14.483Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3415,7 +3415,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835437966,
+              "syncedAt": 1785996134483,
               "runtime": "7 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
@@ -3435,7 +3435,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835437966,
+              "syncedAt": 1785996134483,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
@@ -3457,7 +3457,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835437966,
+              "syncedAt": 1785996134483,
               "runtime": "0 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
@@ -3475,7 +3475,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835448043,
+              "syncedAt": 1785996134483,
               "runtime": "2 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
@@ -3494,7 +3494,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835448043,
+              "syncedAt": 1785996134483,
               "runtime": "0 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
@@ -3516,7 +3516,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835448043,
+              "syncedAt": 1785996134483,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Nim Game/"
@@ -3534,7 +3534,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835448043,
+              "syncedAt": 1785996134483,
               "runtime": "1 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle II/"
@@ -3552,7 +3552,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835448043,
+              "syncedAt": 1785996134483,
               "runtime": "1 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle/"
@@ -3572,7 +3572,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785835448043,
+              "syncedAt": 1785996134483,
               "runtime": "0 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
