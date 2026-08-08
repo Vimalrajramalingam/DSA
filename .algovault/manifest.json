@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T08:07:45.286Z",
+  "lastUpdated": "2026-08-08T08:07:49.883Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -799,7 +799,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995977729,
+              "syncedAt": 1786176469883,
               "runtime": "0 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
@@ -816,7 +816,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995977729,
+              "syncedAt": 1786176469883,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -838,7 +838,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995981165,
+              "syncedAt": 1786176469883,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
