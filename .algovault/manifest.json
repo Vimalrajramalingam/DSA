@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T08:07:07.934Z",
+  "lastUpdated": "2026-08-08T08:07:18.018Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995942844,
+              "syncedAt": 1786176438018,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -41,7 +41,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995942844,
+              "syncedAt": 1786176438018,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786006779221,
+              "syncedAt": 1786176438018,
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -856,7 +856,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785998510317,
+              "syncedAt": 1786176438018,
               "runtime": "3 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -2422,7 +2422,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786007797567,
+              "syncedAt": 1786176438018,
               "runtime": "1 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
@@ -2955,7 +2955,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786004550356,
+              "syncedAt": 1786176438018,
               "runtime": "137 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Word Search/"
@@ -2972,7 +2972,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995942844,
+              "syncedAt": 1786176438018,
               "runtime": "19 ms",
               "memory": "97.6 MB",
               "githubPath": "LeetCode/Backtracking/Combinations/"
@@ -3800,7 +3800,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995942844,
+              "syncedAt": 1786176438018,
               "runtime": "638 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
@@ -3825,9 +3825,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785995942843,
-              "runtime": "3 ms",
-              "memory": "48.8 MB",
+              "syncedAt": 1786176438018,
+              "runtime": "4 ms",
+              "memory": "49.1 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
             },
             "123456789101112131415161718192021222324252627282930class solution {    list<string> res = new arraylist<>();    public list<string> lettercombinations(string digits) {        if(digits.length()==0){            return res;        }        hashmap<character,string> map = new hashmap<>();        map.put('2', \"abc\");        map.put('3', \"def\");        map.put('4', \"ghi\");        map.put('5', \"jkl\");        map.put('6', \"mno\");        map.put('7', \"pqrs\");        map.put('8', \"tuv\");        map.put('9', \"wxyz\");        back(digits,0,\"\",map);        return res;    }    public void back(string digits,int index,string curr,hashmap<character,string> map){        if(index==digits.length()){            res.add(curr);            return;        }        string letter = map.get(digits.charat(index));        for(int i=0;i<letter.length();i++){            back(digits,index+1,curr+letter.charat(i),map);        }    }}": {

@@ -1,48 +1,37 @@
 # 17. Letter Combinations of a Phone Number
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
 
 ## Problem Statement
 
-Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.
+<p>Given a string containing digits from <code>2-9</code> inclusive, return all possible letter combinations that the number could represent. Return the answer in <strong>any order</strong>.</p>
 
-A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+<p>A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.</p>
+<img alt="" src="https://assets.leetcode.com/uploads/2022/03/15/1200px-telephone-keypad2svg.png" style="width: 300px; height: 243px;" />
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
- 
-Example 1:
+<pre>
+<strong>Input:</strong> digits = &quot;23&quot;
+<strong>Output:</strong> [&quot;ad&quot;,&quot;ae&quot;,&quot;af&quot;,&quot;bd&quot;,&quot;be&quot;,&quot;bf&quot;,&quot;cd&quot;,&quot;ce&quot;,&quot;cf&quot;]
+</pre>
 
-Input: digits = "23"
-Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+<p><strong class="example">Example 2:</strong></p>
 
+<pre>
+<strong>Input:</strong> digits = &quot;2&quot;
+<strong>Output:</strong> [&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]
+</pre>
 
-Example 2:
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Input: digits = "2"
-Output: ["a","b","c"]
+<ul>
+	<li><code>1 &lt;= digits.length &lt;= 4</code></li>
+	<li><code>digits[i]</code> is a digit in the range <code>[&#39;2&#39;, &#39;9&#39;]</code>.</li>
+</ul>
 
-
- 
-Constraints:
-
-
-	1 <= digits.length <= 4
-	digits[i] is a digit in the range ['2', '9'].
-
-## Examples
-
-```
-Input: digits = "23"
-Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
-
-Input: digits = "2"
-Output: ["a","b","c"]
-```
-
-## Constraints
-
-- 1 <= digits.length <= 4
-- digits[i] is a digit in the range ['2', '9'].
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
