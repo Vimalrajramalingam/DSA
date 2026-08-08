@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T08:09:30.685Z",
+  "lastUpdated": "2026-08-08T08:09:33.895Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3742,7 +3742,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996142519,
+              "syncedAt": 1786176573895,
               "runtime": "20 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Find the Number of Ways to Place People I/"
@@ -3761,7 +3761,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996142519,
+              "syncedAt": 1786176573895,
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
@@ -3779,7 +3779,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996142519,
+              "syncedAt": 1786176573895,
               "runtime": "49 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
