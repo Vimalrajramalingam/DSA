@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T09:59:28.351Z",
+  "lastUpdated": "2026-08-08T10:02:41.517Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3572,9 +3572,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786183168351,
+              "syncedAt": 1786183361517,
               "runtime": "0 ms",
-              "memory": "42.7 MB",
+              "memory": "42.8 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
             }
           }
