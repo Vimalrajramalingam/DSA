@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T08:09:10.705Z",
+  "lastUpdated": "2026-08-08T08:09:17.563Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3068,7 +3068,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116881,
+              "syncedAt": 1786176557563,
               "runtime": "1 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Perfect Number/"
@@ -3087,7 +3087,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116882,
+              "syncedAt": 1786176557563,
               "runtime": "0 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
@@ -3105,7 +3105,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116882,
+              "syncedAt": 1786176557563,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
@@ -3124,7 +3124,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116882,
+              "syncedAt": 1786176557563,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Tree/Balanced Binary Tree/"
@@ -3144,7 +3144,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128112,
+              "syncedAt": 1786176557563,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -3164,7 +3164,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128113,
+              "syncedAt": 1786176557563,
               "runtime": "2 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Hash Table/Happy Number/"
@@ -3183,7 +3183,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128113,
+              "syncedAt": 1786176557563,
               "runtime": "3 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
@@ -3204,7 +3204,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128113,
+              "syncedAt": 1786176557563,
               "runtime": "0 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
@@ -3224,7 +3224,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128113,
+              "syncedAt": 1786176557563,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Tree/Path Sum/"
@@ -3243,7 +3243,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128113,
+              "syncedAt": 1786176557563,
               "runtime": "1 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
@@ -3261,7 +3261,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128113,
+              "syncedAt": 1786176557563,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
@@ -3280,7 +3280,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128113,
+              "syncedAt": 1786176557563,
               "runtime": "1 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Array/Keyboard Row/"
@@ -3300,7 +3300,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996128113,
+              "syncedAt": 1786176557563,
               "runtime": "3 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
