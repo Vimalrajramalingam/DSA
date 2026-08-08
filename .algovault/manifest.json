@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T10:22:31.550Z",
+  "lastUpdated": "2026-08-08T11:01:48.240Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4069,9 +4069,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786184551550,
+              "syncedAt": 1786186908240,
               "runtime": "0 ms",
-              "memory": "43.7 MB",
+              "memory": "43.3 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
             }
           }
