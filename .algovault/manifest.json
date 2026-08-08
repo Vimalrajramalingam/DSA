@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T08:09:02.295Z",
+  "lastUpdated": "2026-08-08T08:09:10.705Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2781,7 +2781,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996097651,
+              "syncedAt": 1786176550705,
               "runtime": "1 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Slowest Key/"
@@ -2801,7 +2801,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996097652,
+              "syncedAt": 1786176550705,
               "runtime": "1 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/Number of Good Pairs/"
@@ -2820,7 +2820,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996097652,
+              "syncedAt": 1786176550705,
               "runtime": "2 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Destination City/"
@@ -2840,7 +2840,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996097652,
+              "syncedAt": 1786176550705,
               "runtime": "17 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Most Common Word/"
@@ -2858,7 +2858,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996097652,
+              "syncedAt": 1786176550705,
               "runtime": "0 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
@@ -2877,7 +2877,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996097652,
+              "syncedAt": 1786176550705,
               "runtime": "2 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Array/Baseball Game/"
@@ -2897,7 +2897,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996097652,
+              "syncedAt": 1786176550705,
               "runtime": "12 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Array Partition/"
@@ -2916,7 +2916,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116881,
+              "syncedAt": 1786176550705,
               "runtime": "0 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
@@ -2934,7 +2934,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116881,
+              "syncedAt": 1786176550705,
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
@@ -2997,7 +2997,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116881,
+              "syncedAt": 1786176550705,
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/String/Regular Expression Matching/"
@@ -3014,7 +3014,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116881,
+              "syncedAt": 1786176550705,
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/String/String to Integer (atoi)/"
@@ -3031,7 +3031,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116881,
+              "syncedAt": 1786176550705,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Math/Reverse Integer/"
@@ -3051,7 +3051,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996116881,
+              "syncedAt": 1786176550705,
               "runtime": "14 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
