@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T08:39:42.442Z",
+  "lastUpdated": "2026-08-08T08:57:17.240Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3144,9 +3144,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176557563,
+              "syncedAt": 1786179437239,
               "runtime": "0 ms",
-              "memory": "42.5 MB",
+              "memory": "46.9 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
             }
           }
