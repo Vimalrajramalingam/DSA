@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T08:08:21.673Z",
+  "lastUpdated": "2026-08-08T08:08:34.522Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1597,7 +1597,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996038958,
+              "syncedAt": 1786176514522,
               "runtime": "7 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Maximize Sum Of Array After K Negations/"
@@ -1617,7 +1617,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996038958,
+              "syncedAt": 1786176514522,
               "runtime": "7 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Surface Area of 3D Shapes/"
@@ -1637,7 +1637,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996038958,
+              "syncedAt": 1786176514522,
               "runtime": "213 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Array/Fair Candy Swap/"
@@ -1658,7 +1658,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996038958,
+              "syncedAt": 1786176514522,
               "runtime": "12 ms",
               "memory": "52.1 MB",
               "githubPath": "LeetCode/Array/Design HashSet/"
@@ -1677,7 +1677,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996038958,
+              "syncedAt": 1786176514522,
               "runtime": "14 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Hash Table/Count Largest Group/"
@@ -1696,7 +1696,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996038958,
+              "syncedAt": 1786176514522,
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Hash Table/Maximum Number of Balloons/"
@@ -1719,7 +1719,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996038958,
+              "syncedAt": 1786176514522,
               "runtime": "9 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/String/Shortest Palindrome/"
@@ -1738,7 +1738,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "1 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
@@ -1761,7 +1761,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "8 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Word Break/"
@@ -1779,7 +1779,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "17 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Hash Table/Minimize String Length/"
@@ -1797,7 +1797,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Number of Senior Citizens/"
@@ -1814,7 +1814,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "25 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/String/Delete Characters to Make Fancy String/"
@@ -1833,7 +1833,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
@@ -1850,7 +1850,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "7 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/String/Check if Numbers Are Ascending in a Sentence/"
@@ -1868,7 +1868,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Hash Table/Path Crossing/"
@@ -1886,7 +1886,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Two Pointers/Long Pressed Name/"
@@ -1906,7 +1906,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "7 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Sort the People/"
@@ -1924,7 +1924,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053193,
+              "syncedAt": 1786176514522,
               "runtime": "1 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Find Indices With Index and Value Difference I/"
@@ -1943,7 +1943,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785996053194,
+              "syncedAt": 1786176514522,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Check if Array is Good/"
