@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T08:09:33.895Z",
+  "lastUpdated": "2026-08-08T08:12:07.460Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3974,6 +3974,26 @@
               "runtime": "1 ms",
               "memory": "69.5 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "binary-tree-preorder-traversal": {
+          "questionId": "144",
+          "title": "Binary Tree Preorder Traversal",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786176727460,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
             }
           }
         }
