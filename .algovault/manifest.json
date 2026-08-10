@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T08:59:37.366Z",
+  "lastUpdated": "2026-08-10T09:07:03.237Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4079,6 +4079,25 @@
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
+            }
+          }
+        },
+        "two-sum-ii-input-array-is-sorted": {
+          "questionId": "167",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "titleSlug": "two-sum-ii-input-array-is-sorted",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786352823237,
+              "runtime": "4 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
             }
           }
         }
