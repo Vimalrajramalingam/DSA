@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T08:56:04.391Z",
+  "lastUpdated": "2026-08-10T08:59:37.366Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -690,6 +690,12 @@
               "syncedAt": 1786352164390,
               "runtime": "12 ms",
               "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            },
+            "1234571115689101213141617class solution {    public int singlenumber(int[] nums) {        hashset<integer> set = new hashset<>();        for(int num : nums){            if(!set.contains(num)){            }        }        return 0;                set.add(num);            else{                set.remove(num);            }        for(int a:set){            return a;        }    }}": {
+              "syncedAt": 1786352377365,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Single Number/"
             }
           }
