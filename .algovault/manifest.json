@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T08:02:46.509Z",
+  "lastUpdated": "2026-08-10T08:02:51.368Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -725,7 +725,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176465286,
+              "syncedAt": 1786348971368,
               "runtime": "20 ms",
               "memory": "80.9 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -743,7 +743,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176465286,
+              "syncedAt": 1786348971368,
               "runtime": "13 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
@@ -762,7 +762,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176465286,
+              "syncedAt": 1786348971368,
               "runtime": "2 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
@@ -781,7 +781,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176465286,
+              "syncedAt": 1786348971368,
               "runtime": "12 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
@@ -799,7 +799,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176469883,
+              "syncedAt": 1786348971368,
               "runtime": "0 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
@@ -816,7 +816,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176469883,
+              "syncedAt": 1786348971368,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
