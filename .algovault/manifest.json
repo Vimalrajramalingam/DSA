@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T08:02:51.368Z",
+  "lastUpdated": "2026-08-10T08:02:55.176Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -838,7 +838,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176469883,
+              "syncedAt": 1786348975176,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
@@ -876,7 +876,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786176475771,
+              "syncedAt": 1786348975176,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
