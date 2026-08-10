@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T09:07:03.237Z",
+  "lastUpdated": "2026-08-10T09:15:25.623Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -405,9 +405,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786348958558,
-              "runtime": "16 ms",
-              "memory": "47 MB",
+              "syncedAt": 1786353325622,
+              "runtime": "14 ms",
+              "memory": "46.6 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
             }
           }
