@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T08:43:07.773Z",
+  "lastUpdated": "2026-08-11T08:43:15.533Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2333,7 +2333,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Array/Number of Students Doing Homework at a Given Time/"
@@ -2352,7 +2352,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Check If It Is a Straight Line/"
@@ -2372,7 +2372,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "2 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/Height Checker/"
@@ -2390,7 +2390,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Min Cost Climbing Stairs/"
@@ -2410,7 +2410,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "9 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Largest Triangle Area/"
@@ -2449,7 +2449,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "21 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Perfect Squares/"
@@ -2467,7 +2467,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
@@ -2485,7 +2485,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "0 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/String/Rotate String/"
@@ -2504,7 +2504,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795532,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Array/Best Poker Hand/"
@@ -2522,7 +2522,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795533,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Min Max Game/"
@@ -2542,7 +2542,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437795533,
               "runtime": "3 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Keep Multiplying Found Values by Two/"
