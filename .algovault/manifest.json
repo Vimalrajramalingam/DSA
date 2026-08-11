@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T09:02:50.560Z",
+  "lastUpdated": "2026-08-11T09:04:02.318Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4035,7 +4035,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786439042318,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
