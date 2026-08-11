@@ -5,54 +5,44 @@
 
 ## Problem Statement
 
-Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+<p>Given a <strong>non-empty</strong>&nbsp;array of integers <code>nums</code>, every element appears <em>twice</em> except for one. Find that single one.</p>
 
-You must implement a solution with a linear runtime complexity and use only constant extra space.
+<p>You must&nbsp;implement a solution with a linear runtime complexity and use&nbsp;only constant&nbsp;extra space.</p>
 
- 
-Example 1:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [2,2,1]</span></p>
 
-Input: nums = [2,2,1]
+<p><strong>Output:</strong> <span class="example-io">1</span></p>
+</div>
 
-Output: 1
+<p><strong class="example">Example 2:</strong></p>
 
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [4,1,2,1,2]</span></p>
 
-Example 2:
+<p><strong>Output:</strong> <span class="example-io">4</span></p>
+</div>
 
+<p><strong class="example">Example 3:</strong></p>
 
-Input: nums = [4,1,2,1,2]
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [1]</span></p>
 
-Output: 4
+<p><strong>Output:</strong> <span class="example-io">1</span></p>
+</div>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Example 3:
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-3 * 10<sup>4</sup> &lt;= nums[i] &lt;= 3 * 10<sup>4</sup></code></li>
+	<li>Each element in the array appears twice except for one element which appears only once.</li>
+</ul>
 
-
-Input: nums = [1]
-
-Output: 1
-
-
- 
-Constraints:
-
-
-	1 <= nums.length <= 3 * 104
-	-3 * 104 <= nums[i] <= 3 * 104
-	Each element in the array appears twice except for one element which appears only once.
-
-## Examples
-
-```
-See problem description.
-```
-
-## Constraints
-
-- 1 <= nums.length <= 3 * 104
-- -3 * 104 <= nums[i] <= 3 * 104
-- Each element in the array appears twice except for one element which appears only once.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
