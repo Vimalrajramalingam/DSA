@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T08:43:43.673Z",
+  "lastUpdated": "2026-08-11T08:43:51.919Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3170,7 +3170,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349055674,
+              "syncedAt": 1786437831919,
               "runtime": "2 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Hash Table/Happy Number/"
@@ -3189,7 +3189,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "3 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
@@ -3210,7 +3210,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "0 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
@@ -3230,7 +3230,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Tree/Path Sum/"
@@ -3249,7 +3249,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "1 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
@@ -3267,7 +3267,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
@@ -3286,7 +3286,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "1 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Array/Keyboard Row/"
@@ -3306,7 +3306,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "3 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
@@ -3324,7 +3324,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "3 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Teemo Attacking/"
@@ -3345,7 +3345,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "11 ms",
               "memory": "48.6 MB",
               "githubPath": "LeetCode/Array/Assign Cookies/"
@@ -3363,7 +3363,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "7 ms",
               "memory": "56.8 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
@@ -3384,7 +3384,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "3 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
@@ -3402,7 +3402,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349064972,
+              "syncedAt": 1786437831919,
               "runtime": "1 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Third Maximum Number/"
