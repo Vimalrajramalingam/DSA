@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T08:43:15.533Z",
+  "lastUpdated": "2026-08-11T08:43:28.480Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2561,7 +2561,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437808479,
               "runtime": "2 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Maximum Product Difference Between Two Pairs/"
@@ -2578,7 +2578,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349038490,
+              "syncedAt": 1786437808479,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Minimum Distance to the Target Element/"
@@ -2596,7 +2596,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808479,
               "runtime": "2 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Array/Defuse the Bomb/"
@@ -2614,7 +2614,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808479,
               "runtime": "13 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Array/Count Good Triplets/"
@@ -2631,7 +2631,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808479,
               "runtime": "1 ms",
               "memory": "56.2 MB",
               "githubPath": "LeetCode/Array/Check If All 1's Are at Least Length K Places Away/"
@@ -2652,7 +2652,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808479,
               "runtime": "2 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Check If N and Its Double Exist/"
@@ -2671,7 +2671,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Array/Valid Boomerang/"
@@ -2690,7 +2690,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "3 ms",
               "memory": "54 MB",
               "githubPath": "LeetCode/Array/Find the Town Judge/"
@@ -2712,7 +2712,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "8 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
@@ -2730,7 +2730,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "3 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Array/Smallest Range I/"
@@ -2750,7 +2750,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "0 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Flood Fill/"
@@ -2769,7 +2769,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "0 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
@@ -2787,7 +2787,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "1 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Slowest Key/"
@@ -2807,7 +2807,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "1 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/Number of Good Pairs/"
@@ -2826,7 +2826,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "2 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Destination City/"
@@ -2846,7 +2846,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "17 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Most Common Word/"
@@ -2864,7 +2864,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "0 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
@@ -2883,7 +2883,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "2 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Array/Baseball Game/"
@@ -2903,7 +2903,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786349047152,
+              "syncedAt": 1786437808480,
               "runtime": "12 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Array Partition/"
