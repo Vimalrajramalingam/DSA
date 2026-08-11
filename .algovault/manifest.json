@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T10:59:30.816Z",
+  "lastUpdated": "2026-08-11T08:41:12.687Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4098,6 +4098,27 @@
               "runtime": "4 ms",
               "memory": "48.3 MB",
               "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
+            }
+          }
+        },
+        "lowest-common-ancestor-of-a-binary-tree": {
+          "questionId": "236",
+          "title": "Lowest Common Ancestor of a Binary Tree",
+          "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree",
+            "Binary Lifting",
+            "Lowest Common Ancestor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786437672686,
+              "runtime": "18 ms",
+              "memory": "69.9 MB",
+              "githubPath": "LeetCode/Tree/Lowest Common Ancestor of a Binary Tree/"
             }
           }
         }
