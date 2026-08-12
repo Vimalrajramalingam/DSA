@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:51:10.673Z",
+  "lastUpdated": "2026-08-12T07:51:20.573Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2846,7 +2846,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437808480,
+              "syncedAt": 1786521080573,
               "runtime": "17 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Most Common Word/"
@@ -2864,7 +2864,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437808480,
+              "syncedAt": 1786521080573,
               "runtime": "0 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
@@ -2883,7 +2883,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437808480,
+              "syncedAt": 1786521080573,
               "runtime": "2 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Array/Baseball Game/"
@@ -2903,7 +2903,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437808480,
+              "syncedAt": 1786521080573,
               "runtime": "12 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Array Partition/"
@@ -2922,7 +2922,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437823673,
+              "syncedAt": 1786521080573,
               "runtime": "0 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
@@ -2940,7 +2940,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437823673,
+              "syncedAt": 1786521080573,
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
@@ -3003,7 +3003,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437823673,
+              "syncedAt": 1786521080573,
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/String/Regular Expression Matching/"
@@ -3020,7 +3020,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437823673,
+              "syncedAt": 1786521080573,
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/String/String to Integer (atoi)/"
@@ -3037,7 +3037,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437823673,
+              "syncedAt": 1786521080573,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Math/Reverse Integer/"
@@ -3057,7 +3057,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437823673,
+              "syncedAt": 1786521080573,
               "runtime": "14 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
@@ -3074,7 +3074,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437823673,
+              "syncedAt": 1786521080573,
               "runtime": "1 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Perfect Number/"
@@ -3093,7 +3093,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437823673,
+              "syncedAt": 1786521080573,
               "runtime": "0 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
