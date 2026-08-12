@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:49:15.373Z",
+  "lastUpdated": "2026-08-12T07:49:22.575Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -59,7 +59,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437701662,
+              "syncedAt": 1786520962574,
               "runtime": "526 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
@@ -78,7 +78,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437701662,
+              "syncedAt": 1786520962575,
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -97,7 +97,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437701662,
+              "syncedAt": 1786520962575,
               "runtime": "703 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -115,7 +115,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437707526,
+              "syncedAt": 1786520962575,
               "runtime": "1 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -151,7 +151,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437707526,
+              "syncedAt": 1786520962575,
               "runtime": "8 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Backtracking/Binary Watch/"
@@ -187,7 +187,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786437707526,
+              "syncedAt": 1786520962575,
               "runtime": "1038 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Students and Examinations/"
@@ -204,7 +204,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786437707526,
+              "syncedAt": 1786520962575,
               "runtime": "513 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -221,7 +221,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786437707526,
+              "syncedAt": 1786520962575,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
