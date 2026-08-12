@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:50:46.232Z",
+  "lastUpdated": "2026-08-12T07:50:58.072Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2277,7 +2277,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437787773,
+              "syncedAt": 1786521058072,
               "runtime": "4 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
@@ -2297,7 +2297,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437787773,
+              "syncedAt": 1786521058072,
               "runtime": "8 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Math/Sum Game/"
@@ -2333,7 +2333,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437795532,
+              "syncedAt": 1786521058072,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Array/Number of Students Doing Homework at a Given Time/"
@@ -2352,7 +2352,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437795532,
+              "syncedAt": 1786521058072,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Check If It Is a Straight Line/"
@@ -2372,7 +2372,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437795532,
+              "syncedAt": 1786521058072,
               "runtime": "2 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/Height Checker/"
@@ -2390,7 +2390,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437795532,
+              "syncedAt": 1786521058072,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Min Cost Climbing Stairs/"
@@ -2410,7 +2410,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437795532,
+              "syncedAt": 1786521058072,
               "runtime": "9 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Largest Triangle Area/"
@@ -2449,7 +2449,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437795532,
+              "syncedAt": 1786521058072,
               "runtime": "21 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Perfect Squares/"
@@ -2467,7 +2467,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437795532,
+              "syncedAt": 1786521058072,
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
@@ -2485,7 +2485,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437795532,
+              "syncedAt": 1786521058072,
               "runtime": "0 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/String/Rotate String/"
