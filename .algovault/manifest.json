@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:49:35.914Z",
+  "lastUpdated": "2026-08-12T07:49:41.718Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -614,7 +614,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786437724378,
+              "syncedAt": 1786520981718,
               "runtime": "278 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Big Countries/"
@@ -634,7 +634,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437724378,
+              "syncedAt": 1786520981718,
               "runtime": "0 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
@@ -651,7 +651,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437724378,
+              "syncedAt": 1786520981718,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
@@ -669,7 +669,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437729140,
+              "syncedAt": 1786520981718,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
@@ -731,7 +731,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437729140,
+              "syncedAt": 1786520981718,
               "runtime": "20 ms",
               "memory": "80.9 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -768,7 +768,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437729140,
+              "syncedAt": 1786520981718,
               "runtime": "2 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
@@ -787,7 +787,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437729140,
+              "syncedAt": 1786520981718,
               "runtime": "12 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
