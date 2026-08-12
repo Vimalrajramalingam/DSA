@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:49:08.656Z",
+  "lastUpdated": "2026-08-12T07:49:15.373Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437701662,
+              "syncedAt": 1786520955373,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -41,7 +41,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437701662,
+              "syncedAt": 1786520955373,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695295,
+              "syncedAt": 1786520955372,
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -862,7 +862,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695295,
+              "syncedAt": 1786520955372,
               "runtime": "3 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -2961,7 +2961,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695295,
+              "syncedAt": 1786520955372,
               "runtime": "137 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Word Search/"
@@ -2978,7 +2978,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437701662,
+              "syncedAt": 1786520955372,
               "runtime": "19 ms",
               "memory": "97.6 MB",
               "githubPath": "LeetCode/Backtracking/Combinations/"
@@ -3806,7 +3806,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437701662,
+              "syncedAt": 1786520955373,
               "runtime": "638 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
@@ -3831,7 +3831,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437701661,
+              "syncedAt": 1786520955372,
               "runtime": "4 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
