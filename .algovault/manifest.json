@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:49:03.471Z",
+  "lastUpdated": "2026-08-12T07:49:08.656Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1584,7 +1584,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695294,
+              "syncedAt": 1786520948656,
               "runtime": "2 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -2428,7 +2428,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695295,
+              "syncedAt": 1786520948656,
               "runtime": "1 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
@@ -3855,7 +3855,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695295,
+              "syncedAt": 1786520948656,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Find the Middle Index in Array/"
@@ -3873,7 +3873,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695295,
+              "syncedAt": 1786520948656,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
@@ -3892,7 +3892,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695295,
+              "syncedAt": 1786520948656,
               "runtime": "9 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
@@ -3911,7 +3911,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437695295,
+              "syncedAt": 1786520948656,
               "runtime": "7 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
