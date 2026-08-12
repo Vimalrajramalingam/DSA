@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:49:41.718Z",
+  "lastUpdated": "2026-08-12T07:49:45.118Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -822,7 +822,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437729140,
+              "syncedAt": 1786520985118,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -844,7 +844,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437732841,
+              "syncedAt": 1786520985118,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
