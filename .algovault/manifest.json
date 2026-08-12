@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T07:48:54.404Z",
+  "lastUpdated": "2026-08-12T07:49:03.471Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -687,7 +687,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437680583,
+              "syncedAt": 1786520943471,
               "runtime": "12 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Single Number/"
@@ -1068,7 +1068,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437680583,
+              "syncedAt": 1786520943471,
               "runtime": "18 ms",
               "memory": "108.1 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
@@ -3150,7 +3150,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786520943471,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -3578,7 +3578,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786520943471,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
@@ -3635,7 +3635,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786520943471,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
@@ -3785,7 +3785,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437680583,
+              "syncedAt": 1786520943471,
               "runtime": "2 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
@@ -3956,7 +3956,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786520943471,
               "runtime": "2 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -3996,7 +3996,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786520943471,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
@@ -4016,7 +4016,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786520943471,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
@@ -4055,7 +4055,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786520943471,
               "runtime": "4 ms",
               "memory": "82 MB",
               "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
@@ -4075,7 +4075,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786437687031,
+              "syncedAt": 1786520943471,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
