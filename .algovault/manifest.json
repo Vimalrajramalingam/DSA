@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T08:29:00.034Z",
+  "lastUpdated": "2026-08-18T08:29:08.362Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3286,7 +3286,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521088356,
+              "syncedAt": 1787041748361,
               "runtime": "1 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Array/Keyboard Row/"
@@ -3306,7 +3306,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521088356,
+              "syncedAt": 1787041748361,
               "runtime": "3 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
@@ -3324,7 +3324,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521088356,
+              "syncedAt": 1787041748361,
               "runtime": "3 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Teemo Attacking/"
@@ -3345,7 +3345,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521096524,
+              "syncedAt": 1787041748361,
               "runtime": "11 ms",
               "memory": "48.6 MB",
               "githubPath": "LeetCode/Array/Assign Cookies/"
@@ -3363,7 +3363,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521096524,
+              "syncedAt": 1787041748361,
               "runtime": "7 ms",
               "memory": "56.8 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
@@ -3384,7 +3384,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521096524,
+              "syncedAt": 1787041748361,
               "runtime": "3 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
@@ -3402,7 +3402,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521096524,
+              "syncedAt": 1787041748361,
               "runtime": "1 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Third Maximum Number/"
@@ -3421,7 +3421,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521096524,
+              "syncedAt": 1787041748361,
               "runtime": "7 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
@@ -3441,7 +3441,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521096524,
+              "syncedAt": 1787041748361,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
@@ -3463,7 +3463,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521096524,
+              "syncedAt": 1787041748361,
               "runtime": "0 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
@@ -3481,7 +3481,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521096524,
+              "syncedAt": 1787041748361,
               "runtime": "2 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
