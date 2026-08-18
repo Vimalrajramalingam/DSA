@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T08:26:42.551Z",
+  "lastUpdated": "2026-08-18T08:26:52.045Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1584,7 +1584,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520948656,
+              "syncedAt": 1787041612044,
               "runtime": "2 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -3635,7 +3635,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520943471,
+              "syncedAt": 1787041612044,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
@@ -3855,7 +3855,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520948656,
+              "syncedAt": 1787041612045,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Find the Middle Index in Array/"
@@ -3873,7 +3873,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520948656,
+              "syncedAt": 1787041612044,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
@@ -3892,7 +3892,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520948656,
+              "syncedAt": 1787041612044,
               "runtime": "9 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
@@ -3911,7 +3911,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520948656,
+              "syncedAt": 1787041612044,
               "runtime": "7 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
@@ -3956,7 +3956,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520943471,
+              "syncedAt": 1787041612044,
               "runtime": "2 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -3996,7 +3996,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520943471,
+              "syncedAt": 1787041612044,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
