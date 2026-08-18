@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T08:27:54.326Z",
+  "lastUpdated": "2026-08-18T08:28:02.562Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1364,7 +1364,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521011359,
+              "syncedAt": 1787041682561,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
@@ -1382,7 +1382,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521011359,
+              "syncedAt": 1787041682561,
               "runtime": "1 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Two Pointers/String Compression/"
@@ -1399,7 +1399,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521011359,
+              "syncedAt": 1787041682561,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/String/Defanging an IP Address/"
@@ -1417,7 +1417,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521011359,
+              "syncedAt": 1787041682561,
               "runtime": "4 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Maximum Number of Words Found in Sentences/"
@@ -1434,7 +1434,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521011359,
+              "syncedAt": 1787041682561,
               "runtime": "4 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
@@ -1452,7 +1452,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521018911,
+              "syncedAt": 1787041682561,
               "runtime": "2 ms",
               "memory": "119.5 MB",
               "githubPath": "LeetCode/Array/Gas Station/"
@@ -1471,7 +1471,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521018911,
+              "syncedAt": 1787041682561,
               "runtime": "2 ms",
               "memory": "61.2 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
@@ -1490,7 +1490,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521018911,
+              "syncedAt": 1787041682561,
               "runtime": "1 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Squares of a Sorted Array/"
@@ -1508,7 +1508,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521018911,
+              "syncedAt": 1787041682562,
               "runtime": "0 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Next Permutation/"
@@ -1526,7 +1526,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521018911,
+              "syncedAt": 1787041682562,
               "runtime": "1 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -1548,7 +1548,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521018911,
+              "syncedAt": 1787041682562,
               "runtime": "1 ms",
               "memory": "54.5 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
@@ -1565,7 +1565,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786521018911,
+              "syncedAt": 1787041682562,
               "runtime": "0 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
