@@ -1,16 +1,24 @@
 class Solution {
     List<List<Integer>> res = new ArrayList<>();
+
     public List<List<Integer>> subsets(int[] nums) {
-        List<Integer> cur = new ArrayList<>();
-        back(nums,0,cur);
-        return res;
-    }
-    public void back(int nums[],int index,List<Integer> cur){
-        res.add(new ArrayList<>(cur));
-        for(int i = index;i<nums.length;i++){
-            cur.add(nums[i]);
-            back(nums,i+1,cur);
-            cur.remove(cur.size()-1);
+
+        res.add(new ArrayList<>());
+
+        for (int num : nums) {
+
+            int n = res.size();
+
+            for (int i = 0; i < n; i++) {
+
+                List<Integer> ans = new ArrayList<>(res.get(i));
+
+                ans.add(num);
+
+                res.add(ans);
+            }
         }
+
+        return res;
     }
 }
