@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T08:27:18.540Z",
+  "lastUpdated": "2026-08-18T08:27:26.412Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -563,7 +563,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520975914,
+              "syncedAt": 1787041646411,
               "runtime": "1 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
@@ -580,7 +580,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786520975914,
+              "syncedAt": 1787041646411,
               "runtime": "569 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Calculate Special Bonus/"
@@ -597,7 +597,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786520975914,
+              "syncedAt": 1787041646411,
               "runtime": "560 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
@@ -614,7 +614,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786520981718,
+              "syncedAt": 1787041646411,
               "runtime": "278 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Big Countries/"
@@ -634,7 +634,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520981718,
+              "syncedAt": 1787041646411,
               "runtime": "0 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
@@ -651,7 +651,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520981718,
+              "syncedAt": 1787041646412,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
@@ -669,7 +669,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520981718,
+              "syncedAt": 1787041646412,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
@@ -731,7 +731,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520981718,
+              "syncedAt": 1787041646412,
               "runtime": "20 ms",
               "memory": "80.9 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -768,7 +768,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786520981718,
+              "syncedAt": 1787041646412,
               "runtime": "2 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
