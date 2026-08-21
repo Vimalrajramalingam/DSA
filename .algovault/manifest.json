@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T09:56:25.472Z",
+  "lastUpdated": "2026-08-21T09:59:24.068Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3681,6 +3681,12 @@
               "syncedAt": 1787306185472,
               "runtime": "3 ms",
               "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            },
+            "1234567910111213141915211617182282023class solution {    public boolean isvalid(string s) {        deque<character> stack = new arraydeque<>();        for(char ch : s.tochararray()){            if (ch == '(' || ch == '[' || ch == '{') {                stack.push(ch);            }            if(stack.isempty()){                return false ;            }            char top = stack.peek();            if ((ch == ')' && top == '(') ||(ch == ']' && top == '[') ||(ch == '}' && top == '{')) {                stack.pop();        }            }        return stack.isempty();            else{                return false;            }    }            else{        }}": {
+              "syncedAt": 1787306364068,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/String/Valid Parentheses/"
             }
           }
