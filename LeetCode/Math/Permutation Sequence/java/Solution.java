@@ -1,43 +1,34 @@
 class Solution {
-    int count=0;
-    String ans = "";
-    boolean found=false;
-
+    int count = 0;
+    String store = "";
     public String getPermutation(int n, int k) {
-
-        boolean[] used=new boolean[n+1];
-
-        StringBuilder sb = new StringBuilder();
-
-        back(n,k,used,sb);
-
-        return ans;
-    }
-
-    public void back(int n,int k,boolean[] used,StringBuilder sb){
-
-        if(found){
-            return ;
+        boolean[] used = new boolean[n];
+        int arr[] = new int[n];
+        for(int i=0;i<n;i++){
+            arr[i]=i+1;
         }
-
+        StringBuilder sb = new StringBuilder();
+        back(used,n,k,arr,sb);
+        return store;
+    }
+    public void back(boolean[] used,int n,int k,int arr[],StringBuilder sb){
         if(sb.length()==n){
             count++;
-            if(k==count){
-                ans=sb.toString();
-                found=true;
-            }return;
+            if(count == k){
+                store = sb.toString();
+            }
+            return ;
+
         }
-        for(int i=1;i<=n;i++){
+        for(int i=0;i<n;i++){
             if(used[i]){
                 continue;
             }
-            sb.append(i);
+            sb.append(arr[i]);
             used[i]=true;
-            back(n,k,used,sb);
+            back(used,n,k,arr,sb);
             sb.deleteCharAt(sb.length()-1);
             used[i]=false;
         }
-    
     }
-
 }
