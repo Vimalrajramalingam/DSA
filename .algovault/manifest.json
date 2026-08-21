@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T09:59:24.068Z",
+  "lastUpdated": "2026-08-21T10:16:14.045Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1034,9 +1034,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286927282,
-              "runtime": "24 ms",
-              "memory": "47.1 MB",
+              "syncedAt": 1787307374045,
+              "runtime": "23 ms",
+              "memory": "47 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
             }
           }
