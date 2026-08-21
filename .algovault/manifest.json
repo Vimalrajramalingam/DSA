@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T04:34:41.376Z",
+  "lastUpdated": "2026-08-21T04:34:46.654Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1584,7 +1584,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787041612044,
+              "syncedAt": 1787286886654,
               "runtime": "2 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -3150,7 +3150,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787041602551,
+              "syncedAt": 1787286886653,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -3635,7 +3635,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787041612044,
+              "syncedAt": 1787286886653,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
@@ -3892,7 +3892,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787041612044,
+              "syncedAt": 1787286886654,
               "runtime": "9 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
@@ -3911,7 +3911,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787041612044,
+              "syncedAt": 1787286886654,
               "runtime": "7 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
@@ -3956,7 +3956,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787041612044,
+              "syncedAt": 1787286886654,
               "runtime": "2 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -3996,7 +3996,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787041612044,
+              "syncedAt": 1787286886653,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
@@ -4016,7 +4016,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787041602551,
+              "syncedAt": 1787286886653,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
