@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1787295667628" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1787299123384" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -208,6 +208,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 424 | [Longest Repeating Character Replacement](./Hash%20Table/Longest%20Repeating%20Character%20Replacement/) | Medium |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
+| 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 859 | [Buddy Strings](./Hash%20Table/Buddy%20Strings/) | Easy |
 | 1079 | [Letter Tile Possibilities](./Hash%20Table/Letter%20Tile%20Possibilities/) | Medium |

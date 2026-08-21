@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T07:01:07.617Z",
+  "lastUpdated": "2026-08-21T07:58:43.369Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4292,6 +4292,26 @@
               "runtime": "2 ms",
               "memory": "71.9 MB",
               "githubPath": "LeetCode/Array/Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold/"
+            }
+          }
+        },
+        "permutation-in-string": {
+          "questionId": "567",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787299123368,
+              "runtime": "6 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation in String/"
             }
           }
         }
