@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T04:56:56.536Z",
+  "lastUpdated": "2026-08-21T05:21:31.155Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4236,6 +4236,26 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
+            }
+          }
+        },
+        "letter-tile-possibilities": {
+          "questionId": "1079",
+          "title": "Letter Tile Possibilities",
+          "titleSlug": "letter-tile-possibilities",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787289691154,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
             }
           }
         }
