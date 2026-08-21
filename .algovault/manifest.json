@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T05:36:14.075Z",
+  "lastUpdated": "2026-08-21T06:36:53.433Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4268,6 +4268,24 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
+            }
+          }
+        },
+        "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
+          "questionId": "1343",
+          "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+          "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787294213433,
+              "runtime": "2 ms",
+              "memory": "71.9 MB",
+              "githubPath": "LeetCode/Array/Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold/"
             }
           }
         }

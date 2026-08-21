@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1787290574089" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1787294213442" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -104,6 +104,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1051 | [Height Checker](./Array/Height%20Checker/) | Easy |
 | 1232 | [Check If It Is a Straight Line](./Array/Check%20If%20It%20Is%20a%20Straight%20Line/) | Easy |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
+| 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./Array/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold/) | Medium |
 | 1346 | [Check If N and Its Double Exist](./Array/Check%20If%20N%20and%20Its%20Double%20Exist/) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
 | 1436 | [Destination City](./Array/Destination%20City/) | Easy |
