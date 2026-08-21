@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T04:37:12.934Z",
+  "lastUpdated": "2026-08-21T04:53:55.546Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4203,6 +4203,27 @@
               "runtime": "7 ms",
               "memory": "49.7 MB",
               "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "beautiful-arrangement": {
+          "questionId": "526",
+          "title": "Beautiful Arrangement",
+          "titleSlug": "beautiful-arrangement",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787288035546,
+              "runtime": "41 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Beautiful Arrangement/"
             }
           }
         }
