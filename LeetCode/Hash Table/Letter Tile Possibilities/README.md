@@ -5,55 +5,41 @@
 
 ## Problem Statement
 
-You have n  tiles, where each tile has one letter tiles[i] printed on it.
+<p>You have <code>n</code>&nbsp;&nbsp;<code>tiles</code>, where each tile has one letter <code>tiles[i]</code> printed on it.</p>
 
-Return the number of possible non-empty sequences of letters you can make using the letters printed on those tiles.
+<p>Return <em>the number of possible non-empty sequences of letters</em> you can make using the letters printed on those <code>tiles</code>.</p>
 
- 
-Example 1:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Input: tiles = "AAB"
-Output: 8
-Explanation: The possible sequences are "A", "B", "AA", "AB", "BA", "AAB", "ABA", "BAA".
+<pre>
+<strong>Input:</strong> tiles = &quot;AAB&quot;
+<strong>Output:</strong> 8
+<strong>Explanation: </strong>The possible sequences are &quot;A&quot;, &quot;B&quot;, &quot;AA&quot;, &quot;AB&quot;, &quot;BA&quot;, &quot;AAB&quot;, &quot;ABA&quot;, &quot;BAA&quot;.
+</pre>
 
+<p><strong class="example">Example 2:</strong></p>
 
-Example 2:
+<pre>
+<strong>Input:</strong> tiles = &quot;AAABBC&quot;
+<strong>Output:</strong> 188
+</pre>
 
-Input: tiles = "AAABBC"
-Output: 188
+<p><strong class="example">Example 3:</strong></p>
 
+<pre>
+<strong>Input:</strong> tiles = &quot;V&quot;
+<strong>Output:</strong> 1
+</pre>
 
-Example 3:
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Input: tiles = "V"
-Output: 1
+<ul>
+	<li><code>1 &lt;= tiles.length &lt;= 7</code></li>
+	<li><code>tiles</code> consists of uppercase English letters.</li>
+</ul>
 
-
- 
-Constraints:
-
-
-	1 <= tiles.length <= 7
-	tiles consists of uppercase English letters.
-
-## Examples
-
-```
-Input: tiles = "AAB"
-Output: 8
-Explanation: The possible sequences are "A", "B", "AA", "AB", "BA", "AAB", "ABA", "BAA".
-
-Input: tiles = "AAABBC"
-Output: 188
-
-Input: tiles = "V"
-Output: 1
-```
-
-## Constraints
-
-- 1 <= tiles.length <= 7
-- tiles consists of uppercase English letters.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
