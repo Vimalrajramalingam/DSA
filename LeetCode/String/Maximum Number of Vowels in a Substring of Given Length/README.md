@@ -1,48 +1,65 @@
 # 1456. Maximum Number of Vowels in a Substring of Given Length
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>Given a string <code>s</code> and an integer <code>k</code>, return <em>the maximum number of vowel letters in any substring of </em><code>s</code><em> with length </em><code>k</code>.</p>
+Given a string s and an integer k, return the maximum number of vowel letters in any substring of s with length k.
 
-<p><strong>Vowel letters</strong> in English are <code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, and <code>&#39;u&#39;</code>.</p>
+Vowel letters in English are 'a', 'e', 'i', 'o', and 'u'.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> s = &quot;abciiidef&quot;, k = 3
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> The substring &quot;iii&quot; contains 3 vowel letters.
-</pre>
+Input: s = "abciiidef", k = 3
+Output: 3
+Explanation: The substring "iii" contains 3 vowel letters.
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> s = &quot;aeiou&quot;, k = 2
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> Any substring of length 2 contains 2 vowels.
-</pre>
+Example 2:
 
-<p><strong class="example">Example 3:</strong></p>
+Input: s = "aeiou", k = 2
+Output: 2
+Explanation: Any substring of length 2 contains 2 vowels.
 
-<pre>
-<strong>Input:</strong> s = &quot;leetcode&quot;, k = 3
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> &quot;lee&quot;, &quot;eet&quot; and &quot;ode&quot; contain 2 vowels.
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 3:
 
-<ul>
-	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>s</code> consists of lowercase English letters.</li>
-	<li><code>1 &lt;= k &lt;= s.length</code></li>
-</ul>
+Input: s = "leetcode", k = 3
+Output: 2
+Explanation: "lee", "eet" and "ode" contain 2 vowels.
 
+
+ 
+Constraints:
+
+
+	1 <= s.length <= 105
+	s consists of lowercase English letters.
+	1 <= k <= s.length
+
+## Examples
+
+```
+Input: s = "abciiidef", k = 3
+Output: 3
+Explanation: The substring "iii" contains 3 vowel letters.
+
+Input: s = "aeiou", k = 2
+Output: 2
+Explanation: Any substring of length 2 contains 2 vowels.
+
+Input: s = "leetcode", k = 3
+Output: 2
+Explanation: "lee", "eet" and "ode" contain 2 vowels.
+```
+
+## Constraints
+
+- 1 <= s.length <= 105
+- s consists of lowercase English letters.
+- 1 <= k <= s.length
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
