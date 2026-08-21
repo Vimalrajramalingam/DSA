@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T04:35:57.680Z",
+  "lastUpdated": "2026-08-21T04:36:04.043Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -62,6 +62,12 @@
               "syncedAt": 1787286871259,
               "runtime": "1227 ms",
               "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            },
+            "12345678910111213141516171819202122232425262728293031323334class solution {    int count = 0;    string store = \"\";    public string getpermutation(int n, int k) {        boolean[] used = new boolean[n];        int arr[] = new int[n];        for(int i=0;i<n;i++){            arr[i]=i+1;        }        stringbuilder sb = new stringbuilder();        back(used,n,k,arr,sb);        return store;    }    public void back(boolean[] used,int n,int k,int arr[],stringbuilder sb){        if(sb.length()==n){            count++;            if(count == k){                store = sb.tostring();            }            return ;        }        for(int i=0;i<n;i++){            if(used[i]){                continue;            }            sb.append(arr[i]);            used[i]=true;            back(used,n,k,arr,sb);            sb.deletecharat(sb.length()-1);            used[i]=false;        }    }}": {
+              "syncedAt": 1787286964043,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
             }
           }
