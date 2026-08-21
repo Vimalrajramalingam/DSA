@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T04:55:02.968Z",
+  "lastUpdated": "2026-08-21T04:56:56.536Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4229,6 +4229,12 @@
               "syncedAt": 1787288102968,
               "runtime": "0 ms",
               "memory": "41.96 MB",
+              "githubPath": "LeetCode/Array/Beautiful Arrangement/"
+            },
+            "1213141516171819202111109822232425262728    public void back(boolean[] used,int arr[],int n,int position){        if(position > n){            count ++;            return ;        }        for(int i=0;i<n;i++){            if(used[i]){                continue ;            }            if(position % arr[i] == 0 || arr[i] % position == 0){    }        return count ;        back(used,arr,n,1);        }                used[i] = true;                back(used,arr,n,position+1);                used[i] = false ;            }        }    }}": {
+              "syncedAt": 1787288216535,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
             }
           }
