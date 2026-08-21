@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T05:33:24.998Z",
+  "lastUpdated": "2026-08-21T05:36:14.075Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4259,6 +4259,12 @@
             },
             "11121314151617181920109867534221222324252627        if(index == ch.length){            return ;        }        for(int i=0;i<ch.length;i++){            if(used[i]){                continue ;            }            if(i>0 && ch[i] == ch[i-1] && !used[i-1]){                continue ;            }    public void back(boolean[] used , int index , char[] ch){    }        return count ;        arrays.sort(ch);        back(used,0,ch);        char[] ch = tiles.tochararray();    public int numtilepossibilities(string tiles) {        boolean[] used = new boolean[tiles.length()];    int count = 0;            used[i] = true ;            count ++ ;            back(used , index+1 , ch);            used[i] = false ;        }    }}": {
               "syncedAt": 1787290311594,
+              "runtime": "0 ms",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
+            },
+            "111213141516171819201098675342212223242526271        if(index == ch.length){            return ;        }        for(int i=0;i<ch.length;i++){            if(used[i]){                continue ;            }            if(i>0 && ch[i] == ch[i-1] && !used[i-1]){                continue ;            }    public void back(boolean[] used , int index , char[] ch){    }        return count ;        arrays.sort(ch);        back(used,0,ch);        char[] ch = tiles.tochararray();    public int numtilepossibilities(string tiles) {        boolean[] used = new boolean[tiles.length()];    int count = 0;            used[i] = true ;            count ++ ;            back(used , index+1 , ch);            used[i] = false ;        }    }}class solution {": {
+              "syncedAt": 1787290574074,
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
