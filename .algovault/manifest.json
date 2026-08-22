@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-22T09:43:24.867Z",
+  "lastUpdated": "2026-08-22T09:45:02.237Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4342,6 +4342,12 @@
               "syncedAt": 1787391804866,
               "runtime": "7 ms",
               "memory": "48.9 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            },
+            "1c": {
+              "syncedAt": 1787391902237,
+              "runtime": "2 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             }
           }
