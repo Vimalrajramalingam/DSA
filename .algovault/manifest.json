@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-22T08:35:34.368Z",
+  "lastUpdated": "2026-08-22T08:49:26.792Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3318,9 +3318,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787387734367,
-              "runtime": "3 ms",
-              "memory": "43.9 MB",
+              "syncedAt": 1787388566792,
+              "runtime": "4 ms",
+              "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
             }
           }
