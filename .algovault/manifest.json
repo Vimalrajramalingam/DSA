@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-22T08:49:26.792Z",
+  "lastUpdated": "2026-08-22T09:43:24.867Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4324,6 +4324,25 @@
               "runtime": "7 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787391804866,
+              "runtime": "7 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             }
           }
         }
