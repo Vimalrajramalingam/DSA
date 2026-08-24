@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:53:52.203Z",
+  "lastUpdated": "2026-08-24T08:53:59.941Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2233,7 +2233,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286985536,
+              "syncedAt": 1787561639940,
               "runtime": "17 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/4Sum/"
@@ -2252,7 +2252,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286985536,
+              "syncedAt": 1787561639940,
               "runtime": "15 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
@@ -2271,7 +2271,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286985536,
+              "syncedAt": 1787561639940,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Bitwise OR of Even Numbers in an Array/"
@@ -2289,7 +2289,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286985536,
+              "syncedAt": 1787561639940,
               "runtime": "4 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
@@ -2309,7 +2309,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286985536,
+              "syncedAt": 1787561639940,
               "runtime": "8 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Math/Sum Game/"
@@ -2345,7 +2345,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286985536,
+              "syncedAt": 1787561639940,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Array/Number of Students Doing Homework at a Given Time/"
@@ -2364,7 +2364,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286985536,
+              "syncedAt": 1787561639940,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Check If It Is a Straight Line/"
@@ -2384,7 +2384,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286985536,
+              "syncedAt": 1787561639940,
               "runtime": "2 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/Height Checker/"
@@ -2402,7 +2402,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286993465,
+              "syncedAt": 1787561639940,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Min Cost Climbing Stairs/"
@@ -2422,7 +2422,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286993465,
+              "syncedAt": 1787561639941,
               "runtime": "9 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Largest Triangle Area/"
