@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T10:33:45.335Z",
+  "lastUpdated": "2026-08-24T10:50:04.186Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4449,6 +4449,25 @@
               "runtime": "4 ms",
               "memory": "65.1 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787568604185,
+              "runtime": "21 ms",
+              "memory": "77.2 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
             }
           }
         }
