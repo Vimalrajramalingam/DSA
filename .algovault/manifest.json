@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:52:29.149Z",
+  "lastUpdated": "2026-08-24T08:52:36.182Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -868,7 +868,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "3 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -2440,7 +2440,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "1 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
@@ -2973,7 +2973,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "137 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Word Search/"
@@ -2990,7 +2990,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "19 ms",
               "memory": "97.6 MB",
               "githubPath": "LeetCode/Backtracking/Combinations/"
@@ -3824,7 +3824,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "638 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
@@ -3849,7 +3849,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "4 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
@@ -3873,7 +3873,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286892180,
+              "syncedAt": 1787561556182,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Find the Middle Index in Array/"
