@@ -1,47 +1,63 @@
 # 41. First Missing Positive
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/first-missing-positive/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>Given an unsorted integer array <code>nums</code>. Return the <em>smallest positive integer</em> that is <em>not present</em> in <code>nums</code>.</p>
+Given an unsorted integer array nums. Return the smallest positive integer that is not present in nums.
 
-<p>You must implement an algorithm that runs in <code>O(n)</code> time and uses <code>O(1)</code> auxiliary space.</p>
+You must implement an algorithm that runs in O(n) time and uses O(1) auxiliary space.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> nums = [1,2,0]
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> The numbers in the range [1,2] are all in the array.
-</pre>
+Input: nums = [1,2,0]
+Output: 3
+Explanation: The numbers in the range [1,2] are all in the array.
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> nums = [3,4,-1,1]
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> 1 is in the array but 2 is missing.
-</pre>
+Example 2:
 
-<p><strong class="example">Example 3:</strong></p>
+Input: nums = [3,4,-1,1]
+Output: 2
+Explanation: 1 is in the array but 2 is missing.
 
-<pre>
-<strong>Input:</strong> nums = [7,8,9,11,12]
-<strong>Output:</strong> 1
-<strong>Explanation:</strong> The smallest positive integer 1 is missing.
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 3:
 
-<ul>
-	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
-</ul>
+Input: nums = [7,8,9,11,12]
+Output: 1
+Explanation: The smallest positive integer 1 is missing.
 
+
+ 
+Constraints:
+
+
+	1 <= nums.length <= 105
+	-231 <= nums[i] <= 231 - 1
+
+## Examples
+
+```
+Input: nums = [1,2,0]
+Output: 3
+Explanation: The numbers in the range [1,2] are all in the array.
+
+Input: nums = [3,4,-1,1]
+Output: 2
+Explanation: 1 is in the array but 2 is missing.
+
+Input: nums = [7,8,9,11,12]
+Output: 1
+Explanation: The smallest positive integer 1 is missing.
+```
+
+## Constraints
+
+- 1 <= nums.length <= 105
+- -231 <= nums[i] <= 231 - 1
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
