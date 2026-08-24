@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T10:05:01.395Z",
+  "lastUpdated": "2026-08-24T10:06:39.585Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4427,9 +4427,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787565901395,
+              "syncedAt": 1787565999584,
               "runtime": "4 ms",
-              "memory": "47.9 MB",
+              "memory": "47.7 MB",
               "githubPath": "LeetCode/Math/Vowels Game in a String/"
             }
           }
