@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-22T09:45:02.237Z",
+  "lastUpdated": "2026-08-24T08:52:09.568Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -59,9 +59,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286871259,
-              "runtime": "1227 ms",
-              "memory": "42.7 MB",
+              "syncedAt": 1787561529568,
+              "runtime": "1235 ms",
+              "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
             }
           }
@@ -1034,7 +1034,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787307374045,
+              "syncedAt": 1787561529568,
               "runtime": "23 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
@@ -1571,7 +1571,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787310668209,
+              "syncedAt": 1787561529568,
               "runtime": "0 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
@@ -3318,7 +3318,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787388566792,
+              "syncedAt": 1787561529568,
               "runtime": "4 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
@@ -3684,7 +3684,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787306185472,
+              "syncedAt": 1787561529568,
               "runtime": "3 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
@@ -4238,7 +4238,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787288035546,
+              "syncedAt": 1787561529568,
               "runtime": "41 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
@@ -4270,7 +4270,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787290404997,
+              "syncedAt": 1787561529568,
               "runtime": "1 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
@@ -4300,7 +4300,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787294213433,
+              "syncedAt": 1787561529568,
               "runtime": "2 ms",
               "memory": "71.9 MB",
               "githubPath": "LeetCode/Array/Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold/"
@@ -4320,7 +4320,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787299173600,
+              "syncedAt": 1787561529568,
               "runtime": "7 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
@@ -4339,7 +4339,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787391804866,
+              "syncedAt": 1787561529568,
               "runtime": "7 ms",
               "memory": "48.9 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
@@ -4349,6 +4349,45 @@
               "runtime": "2 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "first-missing-positive": {
+          "questionId": "41",
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787561529567,
+              "runtime": "25 ms",
+              "memory": "93.2 MB",
+              "githubPath": "LeetCode/Array/First Missing Positive/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787561529568,
+              "runtime": "1 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
             }
           }
         }

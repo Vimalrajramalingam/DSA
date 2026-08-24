@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1787391902252" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Vimal_raj_R?theme=tokyonight&show=graph,recent&v=1787561529580" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -29,6 +29,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
+| 41 | [First Missing Positive](./Array/First%20Missing%20Positive/) | Hard |
+| 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
