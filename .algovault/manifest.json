@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:56:36.974Z",
+  "lastUpdated": "2026-08-24T08:59:54.886Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4363,9 +4363,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529567,
-              "runtime": "25 ms",
-              "memory": "93.2 MB",
+              "syncedAt": 1787561994885,
+              "runtime": "24 ms",
+              "memory": "96.9 MB",
               "githubPath": "LeetCode/Array/First Missing Positive/"
             },
             "1234567891011121314151617181920212223242526class solution {    public int firstmissingpositive(int[] nums) {        hashset<integer> set = new hashset<>();        for(int i : nums){            set.add(i);        }        int arr[] = new int[set.size()];        int j=0;        for(int i : set){            arr[j] = i;            j++;        }        arrays.sort(arr);        int expected = 1;        for(int i=0;i<arr.length;i++){            if(arr[i]>0){                if(arr[i] == expected){                    expected++;                    continue ;                }                if(arr[i] < expected){                    continue ;                }                if(arr[i]>expected){                    return expected;                }": {
