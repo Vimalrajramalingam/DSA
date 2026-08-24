@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T10:02:36.717Z",
+  "lastUpdated": "2026-08-24T10:05:01.395Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4411,6 +4411,26 @@
               "runtime": "9 ms",
               "memory": "42.89 MB",
               "githubPath": "LeetCode/General/Count and Say/"
+            }
+          }
+        },
+        "vowels-game-in-a-string": {
+          "questionId": "3227",
+          "title": "Vowels Game in a String",
+          "titleSlug": "vowels-game-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Brainteaser",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787565901395,
+              "runtime": "4 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Math/Vowels Game in a String/"
             }
           }
         }
