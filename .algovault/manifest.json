@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:53:34.824Z",
+  "lastUpdated": "2026-08-24T08:53:52.203Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1904,7 +1904,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977295,
+              "syncedAt": 1787561632202,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Two Pointers/Long Pressed Name/"
@@ -1924,7 +1924,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632202,
               "runtime": "7 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Sort the People/"
@@ -1942,7 +1942,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632202,
               "runtime": "1 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Find Indices With Index and Value Difference I/"
@@ -1961,7 +1961,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632203,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Check if Array is Good/"
@@ -1978,7 +1978,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632203,
               "runtime": "176 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Find the Maximum Divisibility Score/"
@@ -1996,7 +1996,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632203,
               "runtime": "1 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Truncate Sentence/"
@@ -2013,7 +2013,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632203,
               "runtime": "2 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Valid Mountain Array/"
@@ -2031,7 +2031,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632203,
               "runtime": "1 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Number of Lines To Write String/"
@@ -2051,7 +2051,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632203,
               "runtime": "3 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Set Mismatch/"
@@ -2068,7 +2068,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977296,
+              "syncedAt": 1787561632203,
               "runtime": "4 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Reformat The String/"
@@ -2087,7 +2087,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977297,
+              "syncedAt": 1787561632203,
               "runtime": "3 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Hash Table/Increasing Decreasing String/"
@@ -2106,7 +2106,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977297,
+              "syncedAt": 1787561632203,
               "runtime": "1 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Find Common Characters/"
@@ -2124,7 +2124,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977297,
+              "syncedAt": 1787561632203,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Hash Table/Buddy Strings/"
@@ -2141,7 +2141,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977297,
+              "syncedAt": 1787561632203,
               "runtime": "1 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/String/Goat Latin/"
@@ -2158,7 +2158,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977297,
+              "syncedAt": 1787561632203,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/String/To Lower Case/"
@@ -2176,7 +2176,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977298,
+              "syncedAt": 1787561632203,
               "runtime": "0 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Math/Base 7/"
@@ -2193,7 +2193,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977298,
+              "syncedAt": 1787561632203,
               "runtime": "2 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
@@ -2214,7 +2214,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286977298,
+              "syncedAt": 1787561632203,
               "runtime": "2 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Surrounded Regions/"
