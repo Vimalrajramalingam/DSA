@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T10:06:39.585Z",
+  "lastUpdated": "2026-08-24T10:33:45.335Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4431,6 +4431,24 @@
               "runtime": "4 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Math/Vowels Game in a String/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787567625334,
+              "runtime": "4 ms",
+              "memory": "65.1 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
             }
           }
         }
