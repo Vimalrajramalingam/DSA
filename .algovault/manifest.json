@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T08:52:58.687Z",
+  "lastUpdated": "2026-08-24T08:53:02.813Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -793,7 +793,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286918158,
+              "syncedAt": 1787561582812,
               "runtime": "12 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
@@ -828,7 +828,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286918158,
+              "syncedAt": 1787561582813,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -850,7 +850,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787286918158,
+              "syncedAt": 1787561582813,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
