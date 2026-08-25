@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T08:33:33.717Z",
+  "lastUpdated": "2026-08-25T08:34:45.188Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1074,9 +1074,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787646813716,
-              "runtime": "13 ms",
-              "memory": "57.9 MB",
+              "syncedAt": 1787646885188,
+              "runtime": "18 ms",
+              "memory": "108.1 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
             }
           }
