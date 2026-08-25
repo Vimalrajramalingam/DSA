@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:06:44.272Z",
+  "lastUpdated": "2026-08-25T05:05:30.360Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4468,6 +4468,24 @@
               "runtime": "21 ms",
               "memory": "77.2 MB",
               "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
+            }
+          }
+        },
+        "beautiful-arrangement-ii": {
+          "questionId": "667",
+          "title": "Beautiful Arrangement II",
+          "titleSlug": "beautiful-arrangement-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787634330359,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Beautiful Arrangement II/"
             }
           }
         }
