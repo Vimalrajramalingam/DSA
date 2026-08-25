@@ -2,7 +2,7 @@ class Solution {
     public int missingNumber(int[] nums) {
         int index = 0;
         int store = 0;
-        TreeSet<Integer> set = new TreeSet<>();
+        Set<Integer> set = new HashSet<>();
         for(int i = 0;i < nums.length ; i++){
             set.add(nums[i]);
         }
