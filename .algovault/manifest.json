@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:23:57.524Z",
+  "lastUpdated": "2026-08-25T10:39:54.750Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4514,6 +4514,27 @@
               "runtime": "20 ms",
               "memory": "91.8 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
+            }
+          }
+        },
+        "sort-colors": {
+          "questionId": "75",
+          "title": "Sort Colors",
+          "titleSlug": "sort-colors",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting",
+            "Quicksort",
+            "Bubble Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787654394750,
+              "runtime": "0 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Sort Colors/"
             }
           }
         }
