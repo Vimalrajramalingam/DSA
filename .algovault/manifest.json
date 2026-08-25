@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:20:11.345Z",
+  "lastUpdated": "2026-08-25T10:23:57.524Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4492,6 +4492,28 @@
               "runtime": "1 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement II/"
+            }
+          }
+        },
+        "find-the-duplicate-number": {
+          "questionId": "287",
+          "title": "Find the Duplicate Number",
+          "titleSlug": "find-the-duplicate-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Bit Manipulation",
+            "Pigeonhole Principle",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787653437524,
+              "runtime": "20 ms",
+              "memory": "91.8 MB",
+              "githubPath": "LeetCode/Array/Find the Duplicate Number/"
             }
           }
         }
