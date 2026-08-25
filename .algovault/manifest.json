@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T10:59:23.151Z",
+  "lastUpdated": "2026-08-25T04:03:50.799Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1034,7 +1034,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529568,
+              "syncedAt": 1787630630799,
               "runtime": "23 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
@@ -1571,7 +1571,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529568,
+              "syncedAt": 1787630630799,
               "runtime": "0 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
@@ -3318,7 +3318,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529568,
+              "syncedAt": 1787630630799,
               "runtime": "4 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
@@ -3684,7 +3684,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529568,
+              "syncedAt": 1787630630799,
               "runtime": "3 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
@@ -4300,7 +4300,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529568,
+              "syncedAt": 1787630630799,
               "runtime": "2 ms",
               "memory": "71.9 MB",
               "githubPath": "LeetCode/Array/Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold/"
@@ -4320,7 +4320,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529568,
+              "syncedAt": 1787630630799,
               "runtime": "7 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
@@ -4339,7 +4339,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529568,
+              "syncedAt": 1787630630799,
               "runtime": "7 ms",
               "memory": "48.9 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
@@ -4363,9 +4363,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561994885,
-              "runtime": "24 ms",
-              "memory": "96.9 MB",
+              "syncedAt": 1787630630799,
+              "runtime": "1 ms",
+              "memory": "71.2 MB",
               "githubPath": "LeetCode/Array/First Missing Positive/"
             },
             "1234567891011121314151617181920212223242526class solution {    public int firstmissingpositive(int[] nums) {        hashset<integer> set = new hashset<>();        for(int i : nums){            set.add(i);        }        int arr[] = new int[set.size()];        int j=0;        for(int i : set){            arr[j] = i;            j++;        }        arrays.sort(arr);        int expected = 1;        for(int i=0;i<arr.length;i++){            if(arr[i]>0){                if(arr[i] == expected){                    expected++;                    continue ;                }                if(arr[i] < expected){                    continue ;                }                if(arr[i]>expected){                    return expected;                }": {
@@ -4390,7 +4390,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561529568,
+              "syncedAt": 1787630630799,
               "runtime": "1 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
@@ -4427,7 +4427,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787565999584,
+              "syncedAt": 1787630630799,
               "runtime": "4 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Math/Vowels Game in a String/"
@@ -4445,7 +4445,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787567625334,
+              "syncedAt": 1787630630799,
               "runtime": "4 ms",
               "memory": "65.1 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
@@ -4464,7 +4464,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787568604185,
+              "syncedAt": 1787630630799,
               "runtime": "21 ms",
               "memory": "77.2 MB",
               "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
