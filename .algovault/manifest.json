@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:04:10.275Z",
+  "lastUpdated": "2026-08-25T04:04:16.193Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3162,7 +3162,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561543773,
+              "syncedAt": 1787630656193,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -3590,7 +3590,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561543773,
+              "syncedAt": 1787630656193,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
@@ -3647,7 +3647,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561549149,
+              "syncedAt": 1787630656193,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
@@ -3974,7 +3974,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561549149,
+              "syncedAt": 1787630656193,
               "runtime": "2 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -4014,7 +4014,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561549149,
+              "syncedAt": 1787630656193,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
@@ -4034,7 +4034,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561549148,
+              "syncedAt": 1787630656193,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
@@ -4073,7 +4073,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561543773,
+              "syncedAt": 1787630656193,
               "runtime": "4 ms",
               "memory": "82 MB",
               "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
