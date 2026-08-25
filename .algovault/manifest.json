@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T09:47:53.378Z",
+  "lastUpdated": "2026-08-25T10:02:09.530Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1554,9 +1554,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630734437,
-              "runtime": "1 ms",
-              "memory": "54.5 MB",
+              "syncedAt": 1787652129530,
+              "runtime": "13 ms",
+              "memory": "52.4 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
             }
           }
