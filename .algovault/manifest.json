@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:04:47.733Z",
+  "lastUpdated": "2026-08-25T04:04:54.454Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -731,7 +731,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561578687,
+              "syncedAt": 1787630694454,
               "runtime": "20 ms",
               "memory": "80.9 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -774,7 +774,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561578687,
+              "syncedAt": 1787630694454,
               "runtime": "2 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
@@ -793,7 +793,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561582812,
+              "syncedAt": 1787630694454,
               "runtime": "12 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
@@ -828,7 +828,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561582813,
+              "syncedAt": 1787630694454,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -850,7 +850,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561582813,
+              "syncedAt": 1787630694454,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
