@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T08:34:45.188Z",
+  "lastUpdated": "2026-08-25T09:02:38.431Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -330,9 +330,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630680568,
+              "syncedAt": 1787648558431,
               "runtime": "1 ms",
-              "memory": "77.3 MB",
+              "memory": "77.1 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
             }
           }
