@@ -1,12 +1,18 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int expectedSum = n * (n + 1) / 2;
-        int actualSum = 0;
-        for (int num : nums) {
-            actualSum += num;
+        int index = 0;
+        int store = 0;
+        TreeSet<Integer> set = new TreeSet<>();
+        for(int i = 0;i < nums.length ; i++){
+            set.add(nums[i]);
         }
-        return expectedSum - actualSum;
+        for(int i : set){
+            if(!set.contains(index)){
+               return index ;
+            }
+            index++;
+        }
+        return index;
+        
     }
 }
-        
