@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T04:04:22.438Z",
+  "lastUpdated": "2026-08-25T04:04:27.840Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561556182,
+              "syncedAt": 1787630667840,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -78,7 +78,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561560659,
+              "syncedAt": 1787630667840,
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -97,7 +97,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561560659,
+              "syncedAt": 1787630667840,
               "runtime": "703 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -115,7 +115,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561560659,
+              "syncedAt": 1787630667840,
               "runtime": "1 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -2990,7 +2990,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561556182,
+              "syncedAt": 1787630667840,
               "runtime": "19 ms",
               "memory": "97.6 MB",
               "githubPath": "LeetCode/Backtracking/Combinations/"
@@ -3824,7 +3824,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787561556182,
+              "syncedAt": 1787630667840,
               "runtime": "638 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
