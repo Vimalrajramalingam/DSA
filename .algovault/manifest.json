@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:49:12.948Z",
+  "lastUpdated": "2026-08-27T03:57:16.778Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -330,7 +330,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787648836763,
+              "syncedAt": 1787803036778,
               "runtime": "1 ms",
               "memory": "77.1 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -491,9 +491,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787650489828,
+              "syncedAt": 1787803036778,
               "runtime": "2 ms",
-              "memory": "47.7 MB",
+              "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
             }
           }
@@ -998,7 +998,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787651273378,
+              "syncedAt": 1787803036778,
               "runtime": "1 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
@@ -1074,9 +1074,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787646885188,
+              "syncedAt": 1787803036778,
               "runtime": "18 ms",
-              "memory": "108.1 MB",
+              "memory": "108.3 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
             }
           }
@@ -1554,7 +1554,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787652129530,
+              "syncedAt": 1787803036778,
               "runtime": "13 ms",
               "memory": "52.4 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
@@ -3475,7 +3475,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787653211344,
+              "syncedAt": 1787803036778,
               "runtime": "6 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
@@ -3493,7 +3493,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787646400138,
+              "syncedAt": 1787803036778,
               "runtime": "1 ms",
               "memory": "94.5 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
@@ -3803,9 +3803,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787644571034,
-              "runtime": "44 ms",
-              "memory": "47 MB",
+              "syncedAt": 1787803036778,
+              "runtime": "0 ms",
+              "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
             },
             "1c": {
@@ -4451,7 +4451,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787649856881,
+              "syncedAt": 1787803036778,
               "runtime": "2 ms",
               "memory": "65.2 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
@@ -4510,7 +4510,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787653437524,
+              "syncedAt": 1787803036778,
               "runtime": "20 ms",
               "memory": "91.8 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
@@ -4531,9 +4531,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787654394750,
+              "syncedAt": 1787803036778,
               "runtime": "0 ms",
-              "memory": "43.6 MB",
+              "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Sort Colors/"
             }
           }
