@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T03:57:47.118Z",
+  "lastUpdated": "2026-08-27T03:57:52.181Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630667840,
+              "syncedAt": 1787803072181,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -78,7 +78,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630667840,
+              "syncedAt": 1787803072181,
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -868,7 +868,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803072181,
               "runtime": "3 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
@@ -2990,7 +2990,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630667840,
+              "syncedAt": 1787803072181,
               "runtime": "19 ms",
               "memory": "97.6 MB",
               "githubPath": "LeetCode/Backtracking/Combinations/"
@@ -3830,7 +3830,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630667840,
+              "syncedAt": 1787803072181,
               "runtime": "638 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
@@ -3855,7 +3855,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803072181,
               "runtime": "4 ms",
               "memory": "49.1 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
