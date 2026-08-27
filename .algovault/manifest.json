@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T03:57:24.201Z",
+  "lastUpdated": "2026-08-27T03:57:30.510Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -41,7 +41,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803050510,
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -59,7 +59,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803050510,
               "runtime": "1235 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
@@ -4059,7 +4059,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803050510,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
@@ -4178,7 +4178,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803050510,
               "runtime": "1 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Zigzag Level Order Traversal/"
@@ -4203,7 +4203,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803050510,
               "runtime": "15 ms",
               "memory": "57.2 MB",
               "githubPath": "LeetCode/Array/Word Subsets/"
@@ -4223,7 +4223,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803050510,
               "runtime": "7 ms",
               "memory": "49.7 MB",
               "githubPath": "LeetCode/Array/Group Anagrams/"
@@ -4244,7 +4244,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803050510,
               "runtime": "41 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Beautiful Arrangement/"
@@ -4276,7 +4276,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803050510,
               "runtime": "1 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Hash Table/Letter Tile Possibilities/"
@@ -4306,7 +4306,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630630799,
+              "syncedAt": 1787803050510,
               "runtime": "2 ms",
               "memory": "71.9 MB",
               "githubPath": "LeetCode/Array/Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold/"
@@ -4326,7 +4326,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630630799,
+              "syncedAt": 1787803050510,
               "runtime": "7 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
