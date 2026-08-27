@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T03:57:52.181Z",
+  "lastUpdated": "2026-08-27T03:57:57.166Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -97,7 +97,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630667840,
+              "syncedAt": 1787803077166,
               "runtime": "703 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -115,7 +115,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630667840,
+              "syncedAt": 1787803077166,
               "runtime": "1 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -151,7 +151,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630674745,
+              "syncedAt": 1787803077166,
               "runtime": "8 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Backtracking/Binary Watch/"
@@ -187,7 +187,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787630674745,
+              "syncedAt": 1787803077166,
               "runtime": "1038 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Students and Examinations/"
@@ -204,7 +204,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787630674745,
+              "syncedAt": 1787803077166,
               "runtime": "513 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -221,7 +221,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787630674745,
+              "syncedAt": 1787803077166,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -238,7 +238,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787630674745,
+              "syncedAt": 1787803077166,
               "runtime": "455 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
