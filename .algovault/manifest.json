@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T03:57:30.510Z",
+  "lastUpdated": "2026-08-27T03:57:36.858Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -170,7 +170,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "5 ms",
               "memory": "77.6 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
@@ -273,7 +273,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "3 ms",
               "memory": "69.4 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -405,7 +405,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "14 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
@@ -687,7 +687,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "12 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Single Number/"
@@ -712,7 +712,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "70 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -749,7 +749,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "14 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
@@ -811,7 +811,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "0 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
@@ -2328,9 +2328,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787654952947,
-              "runtime": "32 ms",
-              "memory": "51.3 MB",
+              "syncedAt": 1787803056858,
+              "runtime": "35 ms",
+              "memory": "59.3 MB",
               "githubPath": "LeetCode/Array/3Sum/"
             }
           }
@@ -3960,7 +3960,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "45 ms",
               "memory": "66.4 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
@@ -4000,7 +4000,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "1 ms",
               "memory": "69.3 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -4118,7 +4118,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630650275,
+              "syncedAt": 1787803056858,
               "runtime": "4 ms",
               "memory": "48.3 MB",
               "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
@@ -4139,7 +4139,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803056858,
               "runtime": "14 ms",
               "memory": "69.9 MB",
               "githubPath": "LeetCode/Tree/Lowest Common Ancestor of a Binary Tree/"
@@ -4159,7 +4159,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630640531,
+              "syncedAt": 1787803056858,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Right Side View/"
