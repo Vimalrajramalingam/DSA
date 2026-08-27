@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T03:58:33.804Z",
+  "lastUpdated": "2026-08-27T03:58:39.518Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1514,7 +1514,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630726239,
+              "syncedAt": 1787803119518,
               "runtime": "0 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Next Permutation/"
@@ -1532,7 +1532,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630734437,
+              "syncedAt": 1787803119518,
               "runtime": "1 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -1615,7 +1615,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630734437,
+              "syncedAt": 1787803119518,
               "runtime": "7 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Maximize Sum Of Array After K Negations/"
@@ -1635,7 +1635,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630734437,
+              "syncedAt": 1787803119518,
               "runtime": "7 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Surface Area of 3D Shapes/"
@@ -1655,7 +1655,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630734437,
+              "syncedAt": 1787803119518,
               "runtime": "213 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Array/Fair Candy Swap/"
@@ -1676,7 +1676,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630734437,
+              "syncedAt": 1787803119518,
               "runtime": "12 ms",
               "memory": "52.1 MB",
               "githubPath": "LeetCode/Array/Design HashSet/"
@@ -1695,7 +1695,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630734437,
+              "syncedAt": 1787803119518,
               "runtime": "14 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Hash Table/Count Largest Group/"
@@ -1714,7 +1714,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630734437,
+              "syncedAt": 1787803119518,
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Hash Table/Maximum Number of Balloons/"
