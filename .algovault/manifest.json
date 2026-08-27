@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T03:57:42.018Z",
+  "lastUpdated": "2026-08-27T03:57:47.118Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803067118,
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -1596,7 +1596,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662437,
+              "syncedAt": 1787803067118,
               "runtime": "2 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -2440,7 +2440,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803067118,
               "runtime": "1 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Find Pivot Index/"
@@ -2973,7 +2973,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803067118,
               "runtime": "137 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Word Search/"
@@ -3879,7 +3879,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803067118,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Find the Middle Index in Array/"
@@ -3897,7 +3897,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803067118,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Smallest Divisible Digit Product I/"
@@ -3916,7 +3916,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803067118,
               "runtime": "9 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
@@ -3935,7 +3935,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787630662438,
+              "syncedAt": 1787803067118,
               "runtime": "7 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Hash Table/Longest Repeating Character Replacement/"
